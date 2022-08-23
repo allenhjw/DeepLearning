@@ -1,0 +1,1557 @@
+07/06/2022 11:58:45 AM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 11:58:47 AM Image data downloaded.
+07/06/2022 11:58:49 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:49 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:49 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:50 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:50 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:51 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:51 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:52 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:52 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:58:53 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 11:59:55 AM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 11:59:56 AM Image data downloaded.
+07/06/2022 12:02:07 PM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 12:02:08 PM Image data downloaded.
+07/06/2022 12:02:14 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 12:02:14 PM image size and channel:(32, 32) , RGB.
+07/06/2022 03:20:57 PM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 03:23:37 PM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 03:24:52 PM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 03:25:35 PM Download image data to /Users/allenhum/Documents/work/data/
+07/06/2022 03:25:36 PM Image data downloaded.
+07/06/2022 03:25:42 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/06/2022 03:25:42 PM image size and channel:(32, 32) , RGB.
+07/07/2022 12:00:33 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 12:02:06 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 12:02:11 PM Image data downloaded.
+07/07/2022 12:02:25 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 12:02:27 PM Image data downloaded.
+07/07/2022 12:03:55 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 12:03:57 PM Image data downloaded.
+07/07/2022 03:07:19 PM Download image data to /Users/allenhum/Documents/work/code/src/data/
+07/07/2022 03:09:25 PM Download image data to /Users/allenhum/Documents/work/code/src/data/
+07/07/2022 03:10:13 PM Image data downloaded.
+07/07/2022 03:47:01 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 03:47:06 PM Image data downloaded.
+07/07/2022 03:47:20 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 03:47:20 PM image size and channel:(32, 32) , RGB.
+07/07/2022 03:48:00 PM training parameters parse
+07/07/2022 03:48:00 PM epochs:30
+07/07/2022 03:48:00 PM learning rate:0.0001
+07/07/2022 03:48:00 PM learning rate gama:0.1
+07/07/2022 03:52:19 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 03:52:20 PM Image data downloaded.
+07/07/2022 03:52:26 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 03:52:26 PM image size and channel:(32, 32) , RGB.
+07/07/2022 03:52:30 PM training parameters parse
+07/07/2022 03:52:30 PM epochs:30
+07/07/2022 03:52:30 PM learning rate:0.0001
+07/07/2022 03:52:30 PM learning rate gama:0.1
+07/07/2022 03:54:19 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 03:54:21 PM Image data downloaded.
+07/07/2022 03:54:26 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 03:54:26 PM image size and channel:(32, 32) , RGB.
+07/07/2022 03:54:26 PM training parameters parse
+07/07/2022 03:54:26 PM epochs:30
+07/07/2022 03:54:26 PM learning rate:0.0001
+07/07/2022 03:54:26 PM learning rate gama:0.1
+07/07/2022 03:55:21 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 03:55:23 PM Image data downloaded.
+07/07/2022 03:55:28 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 03:55:28 PM image size and channel:(32, 32) , RGB.
+07/07/2022 03:55:28 PM training parameters parse
+07/07/2022 03:55:28 PM epochs:30
+07/07/2022 03:55:28 PM learning rate:0.0001
+07/07/2022 03:55:28 PM learning rate gama:0.1
+07/07/2022 03:59:51 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 04:01:15 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 04:01:16 PM Image data downloaded.
+07/07/2022 04:01:22 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 04:01:22 PM image size and channel:(32, 32) , RGB.
+07/07/2022 04:01:22 PM training parameters parse
+07/07/2022 04:01:22 PM epochs:30
+07/07/2022 04:01:22 PM learning rate:0.0001
+07/07/2022 04:01:22 PM learning rate gama:0.1
+07/07/2022 04:04:50 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 04:04:52 PM Image data downloaded.
+07/07/2022 04:04:57 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 04:04:57 PM image size and channel:(32, 32) , RGB.
+07/07/2022 04:04:57 PM training parameters parse
+07/07/2022 04:04:57 PM epochs:30
+07/07/2022 04:04:57 PM learning rate:0.0001
+07/07/2022 04:04:57 PM learning rate gama:0.1
+07/07/2022 04:32:45 PM Loss per epochs:927.1398189067841
+07/07/2022 04:33:11 PM Loss per epochs:818.765248298645
+07/07/2022 04:33:36 PM Loss per epochs:812.7013710737228
+07/07/2022 04:34:02 PM Loss per epochs:812.0443842411041
+07/07/2022 04:34:28 PM Loss per epochs:812.0058927536011
+07/07/2022 04:34:54 PM Loss per epochs:812.0194853544235
+07/07/2022 04:35:20 PM Loss per epochs:812.0674269199371
+07/07/2022 04:36:20 PM Loss per epochs:812.0001766681671
+07/07/2022 04:36:45 PM Loss per epochs:812.0182998180389
+07/07/2022 04:37:12 PM Loss per epochs:812.0148004293442
+07/07/2022 04:37:38 PM Loss per epochs:811.9883472919464
+07/07/2022 04:38:04 PM Loss per epochs:811.9837963581085
+07/07/2022 04:38:30 PM Loss per epochs:811.9713200330734
+07/07/2022 04:38:56 PM Loss per epochs:812.0283395051956
+07/07/2022 04:39:22 PM Loss per epochs:811.986448764801
+07/07/2022 04:39:48 PM Loss per epochs:812.0346314907074
+07/07/2022 04:40:14 PM Loss per epochs:812.0012491941452
+07/07/2022 04:40:40 PM Loss per epochs:811.9958063364029
+07/07/2022 04:41:06 PM Loss per epochs:811.9944179058075
+07/07/2022 04:41:32 PM Loss per epochs:811.9632278680801
+07/07/2022 04:41:59 PM Loss per epochs:812.0525943040848
+07/07/2022 04:42:25 PM Loss per epochs:812.016318321228
+07/07/2022 04:42:51 PM Loss per epochs:811.9969643354416
+07/07/2022 04:43:18 PM Loss per epochs:811.993567109108
+07/07/2022 04:43:44 PM Loss per epochs:812.0569573640823
+07/07/2022 04:44:10 PM Loss per epochs:812.0174076557159
+07/07/2022 04:44:36 PM Loss per epochs:812.0221363306046
+07/07/2022 04:45:02 PM Loss per epochs:812.0288829803467
+07/07/2022 04:45:28 PM Loss per epochs:811.9659138917923
+07/07/2022 04:45:54 PM Loss per epochs:811.9878900051117
+07/07/2022 05:11:20 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 05:11:22 PM Image data downloaded.
+07/07/2022 05:11:27 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 05:11:27 PM image size and channel:(32, 32) , RGB.
+07/07/2022 05:11:27 PM training parameters parse
+07/07/2022 05:11:27 PM epochs:30
+07/07/2022 05:11:27 PM learning rate:0.0001
+07/07/2022 05:11:27 PM learning rate gama:0.1
+07/07/2022 05:11:53 PM Loss per epochs:933.4601234197617
+07/07/2022 05:12:18 PM Loss per epochs:825.7803740501404
+07/07/2022 05:12:44 PM Loss per epochs:819.3147349357605
+07/07/2022 05:13:09 PM Loss per epochs:818.6930911540985
+07/07/2022 05:13:35 PM Loss per epochs:818.5985728502274
+07/07/2022 05:14:02 PM Loss per epochs:818.5428918600082
+07/07/2022 05:14:28 PM Loss per epochs:818.6224546432495
+07/07/2022 05:14:53 PM Loss per epochs:818.6137195825577
+07/07/2022 05:15:19 PM Loss per epochs:818.5941935777664
+07/07/2022 05:15:45 PM Loss per epochs:818.5787914991379
+07/07/2022 05:16:11 PM Loss per epochs:818.588049530983
+07/07/2022 05:16:37 PM Loss per epochs:818.5874180793762
+07/07/2022 05:17:03 PM Loss per epochs:818.59541451931
+07/07/2022 05:17:28 PM Loss per epochs:818.5819127559662
+07/07/2022 05:17:54 PM Loss per epochs:818.6027984619141
+07/07/2022 05:18:20 PM Loss per epochs:818.590824842453
+07/07/2022 05:18:46 PM Loss per epochs:818.5712436437607
+07/07/2022 05:19:12 PM Loss per epochs:818.5744559764862
+07/07/2022 05:19:38 PM Loss per epochs:818.5747638940811
+07/07/2022 05:20:04 PM Loss per epochs:818.6157394647598
+07/07/2022 05:20:29 PM Loss per epochs:818.5381343364716
+07/07/2022 05:20:56 PM Loss per epochs:818.5347738265991
+07/07/2022 05:21:22 PM Loss per epochs:818.5951285362244
+07/07/2022 05:21:48 PM Loss per epochs:818.5240170955658
+07/07/2022 05:22:14 PM Loss per epochs:818.5664839744568
+07/07/2022 05:22:40 PM Loss per epochs:818.6206583976746
+07/07/2022 05:23:06 PM Loss per epochs:818.60498213768
+07/07/2022 05:23:33 PM Loss per epochs:818.616037607193
+07/07/2022 05:23:59 PM Loss per epochs:818.5570480823517
+07/07/2022 05:24:25 PM Loss per epochs:818.5599406957626
+07/07/2022 05:33:54 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 05:33:55 PM Image data downloaded.
+07/07/2022 05:34:01 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 05:34:01 PM image size and channel:(32, 32) , RGB.
+07/07/2022 05:34:01 PM training parameters parse
+07/07/2022 05:34:01 PM epochs:30
+07/07/2022 05:34:01 PM learning rate:0.0001
+07/07/2022 05:34:01 PM learning rate gama:0.1
+07/07/2022 05:34:26 PM Loss per epochs:932.1923635005951
+07/07/2022 05:34:51 PM Loss per epochs:815.4445641040802
+07/07/2022 05:35:17 PM Loss per epochs:808.9360549449921
+07/07/2022 05:35:43 PM Loss per epochs:808.2248916625977
+07/07/2022 05:36:10 PM Loss per epochs:808.234999537468
+07/07/2022 05:36:36 PM Loss per epochs:808.2013055086136
+07/07/2022 05:37:02 PM Loss per epochs:808.2037559747696
+07/07/2022 05:37:29 PM Loss per epochs:808.2165946960449
+07/07/2022 05:37:54 PM Loss per epochs:808.2054889202118
+07/07/2022 05:38:20 PM Loss per epochs:808.1831005811691
+07/07/2022 05:38:46 PM Loss per epochs:808.2005608081818
+07/07/2022 05:39:12 PM Loss per epochs:808.2024155855179
+07/07/2022 05:39:37 PM Loss per epochs:808.194517493248
+07/07/2022 05:40:03 PM Loss per epochs:808.1815359592438
+07/07/2022 05:44:04 PM Loss per epochs:808.2287657260895
+07/07/2022 05:44:30 PM Loss per epochs:808.2684615850449
+07/07/2022 05:44:55 PM Loss per epochs:808.2331471443176
+07/07/2022 05:45:20 PM Loss per epochs:808.2172136306763
+07/07/2022 05:45:46 PM Loss per epochs:808.2576248645782
+07/07/2022 05:46:12 PM Loss per epochs:808.2589792013168
+07/07/2022 05:46:38 PM Loss per epochs:808.2379192113876
+07/07/2022 05:47:04 PM Loss per epochs:808.2057465314865
+07/07/2022 05:47:30 PM Loss per epochs:808.2009748220444
+07/07/2022 05:47:56 PM Loss per epochs:808.2028408050537
+07/07/2022 05:48:22 PM Loss per epochs:808.2024984359741
+07/07/2022 05:48:47 PM Loss per epochs:808.1825634241104
+07/07/2022 05:49:13 PM Loss per epochs:808.2543210983276
+07/07/2022 05:49:39 PM Loss per epochs:808.1824914216995
+07/07/2022 05:50:06 PM Loss per epochs:808.2382048368454
+07/07/2022 05:50:32 PM Loss per epochs:808.260901093483
+07/07/2022 06:05:50 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 06:05:52 PM Image data downloaded.
+07/07/2022 06:05:57 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 06:05:57 PM image size and channel:(32, 32) , RGB.
+07/07/2022 06:05:57 PM training parameters parse
+07/07/2022 06:05:57 PM epochs:30
+07/07/2022 06:05:57 PM learning rate:0.0001
+07/07/2022 06:05:57 PM learning rate gama:0.1
+07/07/2022 06:06:23 PM Loss per epochs:931.2493730783463
+07/07/2022 06:06:49 PM Loss per epochs:819.7731938362122
+07/07/2022 06:07:15 PM Loss per epochs:813.5062354803085
+07/07/2022 06:07:41 PM Loss per epochs:812.92737865448
+07/07/2022 06:08:07 PM Loss per epochs:812.838086605072
+07/07/2022 06:08:33 PM Loss per epochs:812.8223086595535
+07/07/2022 06:08:59 PM Loss per epochs:812.8421844244003
+07/07/2022 06:09:24 PM Loss per epochs:812.8390613794327
+07/07/2022 06:09:50 PM Loss per epochs:812.8166629076004
+07/07/2022 06:10:16 PM Loss per epochs:812.8426629304886
+07/07/2022 06:10:42 PM Loss per epochs:812.8007643222809
+07/07/2022 06:11:08 PM Loss per epochs:812.852334856987
+07/07/2022 06:11:34 PM Loss per epochs:812.8274829387665
+07/07/2022 06:11:59 PM Loss per epochs:812.8147916793823
+07/07/2022 06:12:25 PM Loss per epochs:812.8385953903198
+07/07/2022 06:12:51 PM Loss per epochs:812.8184851408005
+07/07/2022 06:13:17 PM Loss per epochs:812.8413141965866
+07/07/2022 06:13:42 PM Loss per epochs:812.8303195238113
+07/07/2022 06:14:09 PM Loss per epochs:812.7969686985016
+07/07/2022 06:14:34 PM Loss per epochs:812.8410127162933
+07/07/2022 06:15:00 PM Loss per epochs:812.8262555599213
+07/07/2022 06:15:26 PM Loss per epochs:812.8368026018143
+07/07/2022 06:15:52 PM Loss per epochs:812.8174049854279
+07/07/2022 06:16:18 PM Loss per epochs:812.8960807323456
+07/07/2022 06:16:44 PM Loss per epochs:812.8337424993515
+07/07/2022 06:17:10 PM Loss per epochs:812.8585983514786
+07/07/2022 06:17:36 PM Loss per epochs:812.875784277916
+07/07/2022 06:18:02 PM Loss per epochs:812.8526097536087
+07/07/2022 06:18:29 PM Loss per epochs:812.8026653528214
+07/07/2022 06:18:55 PM Loss per epochs:812.8674495220184
+07/07/2022 06:22:07 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 06:22:08 PM Image data downloaded.
+07/07/2022 06:22:14 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 06:22:14 PM image size and channel:(32, 32) , RGB.
+07/07/2022 06:22:14 PM training parameters parse
+07/07/2022 06:22:14 PM epochs:30
+07/07/2022 06:22:14 PM learning rate:0.0001
+07/07/2022 06:22:14 PM learning rate gama:0.1
+07/07/2022 06:22:39 PM Loss per epochs:927.6215348243713
+07/07/2022 06:23:05 PM Loss per epochs:814.3548539876938
+07/07/2022 06:23:31 PM Loss per epochs:807.7586538791656
+07/07/2022 06:23:56 PM Loss per epochs:806.9913039207458
+07/07/2022 06:24:22 PM Loss per epochs:806.9221198558807
+07/07/2022 06:24:48 PM Loss per epochs:806.9093706607819
+07/07/2022 06:25:14 PM Loss per epochs:806.9974339008331
+07/07/2022 06:25:39 PM Loss per epochs:806.895641207695
+07/07/2022 06:26:05 PM Loss per epochs:806.9443216323853
+07/07/2022 06:26:31 PM Loss per epochs:806.9560078382492
+07/07/2022 06:26:57 PM Loss per epochs:806.9201835393906
+07/07/2022 06:27:22 PM Loss per epochs:806.9296139478683
+07/07/2022 06:27:48 PM Loss per epochs:806.9336080551147
+07/07/2022 06:28:14 PM Loss per epochs:806.9452184438705
+07/07/2022 06:28:39 PM Loss per epochs:806.9460668563843
+07/07/2022 06:29:05 PM Loss per epochs:806.9301909208298
+07/07/2022 06:29:31 PM Loss per epochs:806.9336848258972
+07/07/2022 06:29:57 PM Loss per epochs:806.9755724668503
+07/07/2022 06:30:22 PM Loss per epochs:806.931449174881
+07/07/2022 06:30:48 PM Loss per epochs:806.9419323205948
+07/07/2022 06:31:14 PM Loss per epochs:806.9141029119492
+07/07/2022 06:31:40 PM Loss per epochs:806.9107948541641
+07/07/2022 06:32:06 PM Loss per epochs:806.967346072197
+07/07/2022 06:32:31 PM Loss per epochs:806.9293811321259
+07/07/2022 06:32:57 PM Loss per epochs:806.9244252443314
+07/07/2022 06:33:23 PM Loss per epochs:806.9762668609619
+07/07/2022 06:33:49 PM Loss per epochs:806.9350837469101
+07/07/2022 06:34:14 PM Loss per epochs:806.8958517313004
+07/07/2022 06:34:40 PM Loss per epochs:806.9150931835175
+07/07/2022 06:35:06 PM Loss per epochs:806.8670625686646
+07/07/2022 08:55:20 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 08:55:22 PM Image data downloaded.
+07/07/2022 08:55:28 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 08:55:28 PM image size and channel:(32, 32) , RGB.
+07/07/2022 08:55:28 PM training parameters parse
+07/07/2022 08:55:28 PM epochs:30
+07/07/2022 08:55:28 PM learning rate:0.0001
+07/07/2022 08:55:28 PM learning rate gama:0.1
+07/07/2022 08:55:53 PM Loss per epochs:925.6824841499329
+07/07/2022 08:56:18 PM Loss per epochs:813.9478722810745
+07/07/2022 08:56:44 PM Loss per epochs:807.1339218616486
+07/07/2022 08:57:10 PM Loss per epochs:806.4225379228592
+07/07/2022 08:57:35 PM Loss per epochs:806.3690556287766
+07/07/2022 08:58:01 PM Loss per epochs:806.4049772024155
+07/07/2022 09:19:45 PM Loss per epochs:806.3544381856918
+07/07/2022 09:45:32 PM Loss per epochs:806.3537429571152
+07/07/2022 09:45:57 PM Loss per epochs:806.341327548027
+07/07/2022 09:46:23 PM Loss per epochs:806.3643120527267
+07/07/2022 09:46:48 PM Loss per epochs:806.3785548210144
+07/07/2022 10:05:28 PM Loss per epochs:806.3494516611099
+07/07/2022 10:41:07 PM Loss per epochs:806.3488770723343
+07/07/2022 11:00:13 PM Loss per epochs:806.3812845945358
+07/07/2022 11:00:39 PM Loss per epochs:806.3593702316284
+07/07/2022 11:01:04 PM Loss per epochs:806.3737511634827
+07/07/2022 11:01:31 PM Loss per epochs:806.3574208021164
+07/07/2022 11:01:57 PM Loss per epochs:806.3473913669586
+07/07/2022 11:02:23 PM Loss per epochs:806.3471318483353
+07/07/2022 11:02:49 PM Loss per epochs:806.3578588962555
+07/07/2022 11:03:15 PM Loss per epochs:806.3433383703232
+07/07/2022 11:03:41 PM Loss per epochs:806.3948858976364
+07/07/2022 11:04:07 PM Loss per epochs:806.3141686916351
+07/07/2022 11:04:33 PM Loss per epochs:806.3189253807068
+07/07/2022 11:04:59 PM Loss per epochs:806.3337517976761
+07/07/2022 11:05:25 PM Loss per epochs:806.350089430809
+07/07/2022 11:05:51 PM Loss per epochs:806.3485933542252
+07/07/2022 11:06:17 PM Loss per epochs:806.3313120603561
+07/07/2022 11:06:44 PM Loss per epochs:806.3123799562454
+07/07/2022 11:07:10 PM Loss per epochs:806.3153986930847
+07/07/2022 11:56:28 PM Download image data to /Users/allenhum/Documents/work/data/
+07/07/2022 11:56:30 PM Image data downloaded.
+07/07/2022 11:56:35 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/07/2022 11:56:35 PM image size and channel:(32, 32) , RGB.
+07/07/2022 11:56:35 PM training parameters parse
+07/07/2022 11:56:35 PM epochs:30
+07/07/2022 11:56:35 PM learning rate:0.0001
+07/07/2022 11:56:35 PM learning rate gama:0.1
+07/07/2022 11:57:01 PM Loss per epochs:968.7403156757355
+07/07/2022 11:57:27 PM Loss per epochs:874.5293167829514
+07/07/2022 11:57:52 PM Loss per epochs:868.5431451797485
+07/07/2022 11:58:18 PM Loss per epochs:867.9750145673752
+07/07/2022 11:58:44 PM Loss per epochs:867.954503774643
+07/07/2022 11:59:10 PM Loss per epochs:867.8939615488052
+07/07/2022 11:59:36 PM Loss per epochs:867.8575789928436
+07/08/2022 12:00:02 AM Loss per epochs:867.9218548536301
+07/08/2022 12:00:28 AM Loss per epochs:867.8849954605103
+07/08/2022 12:00:54 AM Loss per epochs:867.8844155073166
+07/08/2022 12:01:21 AM Loss per epochs:867.8692308664322
+07/08/2022 12:01:47 AM Loss per epochs:867.8886117935181
+07/08/2022 12:02:13 AM Loss per epochs:867.8795951604843
+07/08/2022 12:02:39 AM Loss per epochs:867.9439314603806
+07/08/2022 12:03:06 AM Loss per epochs:867.9207946062088
+07/08/2022 12:03:32 AM Loss per epochs:867.8653857707977
+07/08/2022 12:03:58 AM Loss per epochs:867.8640986680984
+07/08/2022 12:04:24 AM Loss per epochs:867.9188607931137
+07/08/2022 12:04:50 AM Loss per epochs:867.8805980682373
+07/08/2022 12:05:16 AM Loss per epochs:867.8777508735657
+07/08/2022 12:05:42 AM Loss per epochs:867.8922426700592
+07/08/2022 12:06:08 AM Loss per epochs:867.8771800994873
+07/08/2022 12:06:34 AM Loss per epochs:867.8876670598984
+07/08/2022 12:07:00 AM Loss per epochs:867.9510897397995
+07/08/2022 12:07:26 AM Loss per epochs:867.8807156085968
+07/08/2022 12:07:52 AM Loss per epochs:867.8803510665894
+07/08/2022 12:08:18 AM Loss per epochs:867.9201794862747
+07/08/2022 12:08:44 AM Loss per epochs:867.9235075712204
+07/08/2022 12:09:10 AM Loss per epochs:867.8676619529724
+07/08/2022 12:09:36 AM Loss per epochs:867.8757399320602
+07/08/2022 12:10:57 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 12:10:59 AM Image data downloaded.
+07/08/2022 12:11:04 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 12:11:04 AM image size and channel:(32, 32) , RGB.
+07/08/2022 12:11:04 AM training parameters parse
+07/08/2022 12:11:04 AM epochs:30
+07/08/2022 12:11:04 AM learning rate:0.0001
+07/08/2022 12:11:04 AM learning rate gama:0.1
+07/08/2022 12:11:30 AM Loss per epochs:920.3684706687927
+07/08/2022 12:11:55 AM Loss per epochs:811.9783924818039
+07/08/2022 12:12:21 AM Loss per epochs:806.2354829311371
+07/08/2022 12:12:47 AM Loss per epochs:805.6840313673019
+07/08/2022 12:13:18 AM Loss per epochs:805.5926942825317
+07/08/2022 12:13:21 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 12:13:23 AM Image data downloaded.
+07/08/2022 12:13:28 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 12:13:28 AM image size and channel:(32, 32) , RGB.
+07/08/2022 12:13:28 AM training parameters parse
+07/08/2022 12:13:28 AM epochs:30
+07/08/2022 12:13:28 AM learning rate:0.0001
+07/08/2022 12:13:28 AM learning rate gama:0.1
+07/08/2022 07:11:12 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 07:11:14 AM Image data downloaded.
+07/08/2022 07:11:19 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 07:11:19 AM image size and channel:(32, 32) , RGB.
+07/08/2022 07:11:20 AM training parameters parse
+07/08/2022 07:11:20 AM epochs:30
+07/08/2022 07:11:20 AM learning rate:0.0001
+07/08/2022 07:11:20 AM learning rate gama:0.1
+07/08/2022 07:11:45 AM Loss per epoch 0 :1.9850451415027384
+07/08/2022 07:12:11 AM Loss per epoch 1 :1.7321632795496535
+07/08/2022 07:12:36 AM Loss per epoch 2 :1.7191407042525724
+07/08/2022 07:13:02 AM Loss per epoch 3 :1.7179271770692837
+07/08/2022 07:13:28 AM Loss per epoch 4 :1.7177089597624757
+07/08/2022 07:13:53 AM Loss per epoch 5 :1.7176534687278113
+07/08/2022 07:14:19 AM Loss per epoch 6 :1.717746539919107
+07/08/2022 07:14:45 AM Loss per epoch 7 :1.7177352592635002
+07/08/2022 07:15:10 AM Loss per epoch 8 :1.7177453818860084
+07/08/2022 07:15:36 AM Loss per epoch 9 :1.7177525438479524
+07/08/2022 07:16:02 AM Loss per epoch 10 :1.7178232517323768
+07/08/2022 07:16:28 AM Loss per epoch 11 :1.7178080498790944
+07/08/2022 07:16:53 AM Loss per epoch 12 :1.717865860030087
+07/08/2022 07:17:19 AM Loss per epoch 13 :1.7177141259219855
+07/08/2022 07:17:45 AM Loss per epoch 14 :1.717799074614226
+07/08/2022 07:18:11 AM Loss per epoch 15 :1.7177085805295118
+07/08/2022 07:18:37 AM Loss per epoch 16 :1.7177900119122667
+07/08/2022 07:19:03 AM Loss per epoch 17 :1.7178078452661347
+07/08/2022 07:19:29 AM Loss per epoch 18 :1.7177534436366197
+07/08/2022 07:19:55 AM Loss per epoch 19 :1.7177346248362364
+07/08/2022 07:20:21 AM Loss per epoch 20 :1.7177465348355552
+07/08/2022 07:20:47 AM Loss per epoch 21 :1.7177510785141479
+07/08/2022 07:21:13 AM Loss per epoch 22 :1.7177229448676363
+07/08/2022 07:21:39 AM Loss per epoch 23 :1.7176978341551985
+07/08/2022 07:22:05 AM Loss per epoch 24 :1.7176541227267494
+07/08/2022 07:22:31 AM Loss per epoch 25 :1.7177422161041291
+07/08/2022 07:22:57 AM Loss per epoch 26 :1.717768319125877
+07/08/2022 07:23:23 AM Loss per epoch 27 :1.7178080679257033
+07/08/2022 07:23:49 AM Loss per epoch 28 :1.7177745322428786
+07/08/2022 07:24:15 AM Loss per epoch 29 :1.7176733029676652
+07/08/2022 08:22:41 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 08:22:42 AM Image data downloaded.
+07/08/2022 08:22:49 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 08:22:49 AM image size and channel:(32, 32) , RGB.
+07/08/2022 08:22:49 AM training parameters parse
+07/08/2022 08:22:49 AM epochs:30
+07/08/2022 08:22:49 AM learning rate:0.0001
+07/08/2022 08:22:49 AM learning rate gama:0.1
+07/08/2022 08:23:15 AM Loss per epoch 0 :1.991958529964439
+07/08/2022 08:23:41 AM Loss per epoch 1 :1.7561911110684816
+07/08/2022 08:24:07 AM Loss per epoch 2 :1.7432573838020438
+07/08/2022 08:24:32 AM Loss per epoch 3 :1.7418356312871741
+07/08/2022 08:24:58 AM Loss per epoch 4 :1.7418174908867776
+07/08/2022 08:25:24 AM Loss per epoch 5 :1.7418234800733228
+07/08/2022 08:25:49 AM Loss per epoch 6 :1.7417918830029746
+07/08/2022 08:26:16 AM Loss per epoch 7 :1.7417753688307966
+07/08/2022 08:26:42 AM Loss per epoch 8 :1.741839798274579
+07/08/2022 08:27:08 AM Loss per epoch 9 :1.741888957745485
+07/08/2022 08:27:34 AM Loss per epoch 10 :1.7417961811460156
+07/08/2022 08:28:00 AM Loss per epoch 11 :1.741744082365463
+07/08/2022 08:28:26 AM Loss per epoch 12 :1.741870572317892
+07/08/2022 08:28:51 AM Loss per epoch 13 :1.741760885791738
+07/08/2022 08:29:17 AM Loss per epoch 14 :1.7418706079027546
+07/08/2022 08:29:43 AM Loss per epoch 15 :1.7417728390012468
+07/08/2022 08:30:08 AM Loss per epoch 16 :1.7418299565183075
+07/08/2022 08:30:34 AM Loss per epoch 17 :1.7419064662603936
+07/08/2022 08:30:59 AM Loss per epoch 18 :1.7417428173235994
+07/08/2022 08:33:23 AM Loss per epoch 19 :1.7418534504070973
+07/08/2022 08:33:48 AM Loss per epoch 20 :1.7418125827175213
+07/08/2022 08:34:14 AM Loss per epoch 21 :1.7417731173257076
+07/08/2022 08:34:39 AM Loss per epoch 22 :1.7418197334956513
+07/08/2022 08:35:05 AM Loss per epoch 23 :1.7418030289444588
+07/08/2022 08:35:31 AM Loss per epoch 24 :1.7417380835201695
+07/08/2022 08:35:56 AM Loss per epoch 25 :1.7418262961068387
+07/08/2022 08:36:22 AM Loss per epoch 26 :1.7416998862203505
+07/08/2022 08:36:47 AM Loss per epoch 27 :1.7419417087457327
+07/08/2022 08:37:13 AM Loss per epoch 28 :1.7418695327315503
+07/08/2022 08:37:39 AM Loss per epoch 29 :1.7418186885715803
+07/08/2022 09:16:16 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 09:16:18 AM Image data downloaded.
+07/08/2022 09:16:23 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 09:16:23 AM image size and channel:(32, 32) , RGB.
+07/08/2022 09:16:23 AM training parameters parse
+07/08/2022 09:16:23 AM epochs:30
+07/08/2022 09:16:23 AM learning rate:0.0001
+07/08/2022 09:16:23 AM learning rate gama:0.1
+07/08/2022 09:16:49 AM Loss per epoch 0 :2.0174705944081612
+07/08/2022 09:17:15 AM Loss per epoch 1 :1.7912795805473571
+07/08/2022 09:17:41 AM Loss per epoch 2 :1.778012680092346
+07/08/2022 09:18:06 AM Loss per epoch 3 :1.776534571068119
+07/08/2022 09:18:32 AM Loss per epoch 4 :1.7763499900984612
+07/08/2022 09:18:58 AM Loss per epoch 5 :1.7763664242046981
+07/08/2022 09:20:16 AM Loss per epoch 6 :1.7763718026024955
+07/08/2022 09:20:42 AM Loss per epoch 7 :1.7763831923002882
+07/08/2022 09:21:07 AM Loss per epoch 8 :1.7763354163180027
+07/08/2022 09:21:33 AM Loss per epoch 9 :1.7763915499136138
+07/08/2022 09:21:59 AM Loss per epoch 10 :1.7763314107333674
+07/08/2022 09:22:25 AM Loss per epoch 11 :1.7764086080258334
+07/08/2022 09:22:51 AM Loss per epoch 12 :1.7763420282396427
+07/08/2022 09:23:16 AM Loss per epoch 13 :1.776398812021528
+07/08/2022 09:23:42 AM Loss per epoch 14 :1.7763609314269857
+07/08/2022 09:24:08 AM Loss per epoch 15 :1.776501727002516
+07/08/2022 09:24:34 AM Loss per epoch 16 :1.7764307019044596
+07/08/2022 09:25:00 AM Loss per epoch 17 :1.776355417044178
+07/08/2022 09:25:26 AM Loss per epoch 18 :1.7764069152030864
+07/08/2022 09:25:51 AM Loss per epoch 19 :1.7763295288024934
+07/08/2022 09:26:17 AM Loss per epoch 20 :1.776365060287752
+07/08/2022 09:26:43 AM Loss per epoch 21 :1.7764683832237715
+07/08/2022 09:27:09 AM Loss per epoch 22 :1.7764178791534164
+07/08/2022 09:27:35 AM Loss per epoch 23 :1.7762820110646391
+07/08/2022 09:28:00 AM Loss per epoch 24 :1.7763462826641383
+07/08/2022 09:28:26 AM Loss per epoch 25 :1.7763998404240557
+07/08/2022 09:28:52 AM Loss per epoch 26 :1.7763278985074333
+07/08/2022 09:29:18 AM Loss per epoch 27 :1.7763203334198323
+07/08/2022 09:29:43 AM Loss per epoch 28 :1.776355249795324
+07/08/2022 09:30:09 AM Loss per epoch 29 :1.7763892900206641
+07/08/2022 09:34:12 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 09:34:14 AM Image data downloaded.
+07/08/2022 09:34:19 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 09:34:19 AM image size and channel:(32, 32) , RGB.
+07/08/2022 09:34:19 AM training parameters parse
+07/08/2022 09:34:19 AM epochs:30
+07/08/2022 09:34:19 AM learning rate:0.0001
+07/08/2022 09:34:19 AM learning rate gama:0.1
+07/08/2022 09:34:45 AM Loss per epoch 0 :2.0945365159496316
+07/08/2022 09:35:10 AM Loss per epoch 1 :1.8858484825345754
+07/08/2022 09:35:36 AM Loss per epoch 2 :1.8714810754698732
+07/08/2022 09:36:02 AM Loss per epoch 3 :1.870124008101441
+07/08/2022 09:36:28 AM Loss per epoch 4 :1.8699495256074201
+07/08/2022 09:36:54 AM Loss per epoch 5 :1.8699709748916788
+07/08/2022 09:37:20 AM Loss per epoch 6 :1.8699142160191973
+07/08/2022 09:37:46 AM Loss per epoch 7 :1.8699179529381205
+07/08/2022 09:38:11 AM Loss per epoch 8 :1.8699989295971673
+07/08/2022 09:38:37 AM Loss per epoch 9 :1.8699103830211452
+07/08/2022 09:39:03 AM Loss per epoch 10 :1.870016338982816
+07/08/2022 09:39:29 AM Loss per epoch 11 :1.8698878222182869
+07/08/2022 09:39:55 AM Loss per epoch 12 :1.8698507621090041
+07/08/2022 09:40:21 AM Loss per epoch 13 :1.8699344943073004
+07/08/2022 09:40:47 AM Loss per epoch 14 :1.8699070052551563
+07/08/2022 09:41:13 AM Loss per epoch 15 :1.8699379767944564
+07/08/2022 09:41:39 AM Loss per epoch 16 :1.8699193361725635
+07/08/2022 09:42:05 AM Loss per epoch 17 :1.8698909902877645
+07/08/2022 09:42:31 AM Loss per epoch 18 :1.8699394957597322
+07/08/2022 09:42:58 AM Loss per epoch 19 :1.8699194813079671
+07/08/2022 09:43:24 AM Loss per epoch 20 :1.8698959874191772
+07/08/2022 09:43:50 AM Loss per epoch 21 :1.8699311915237005
+07/08/2022 09:44:16 AM Loss per epoch 22 :1.8699550049137206
+07/08/2022 09:44:42 AM Loss per epoch 23 :1.8698796582882846
+07/08/2022 09:45:08 AM Loss per epoch 24 :1.8698439028725695
+07/08/2022 09:45:33 AM Loss per epoch 25 :1.8699345215043026
+07/08/2022 09:45:59 AM Loss per epoch 26 :1.8699751731429273
+07/08/2022 09:46:25 AM Loss per epoch 27 :1.8698564823756594
+07/08/2022 09:46:51 AM Loss per epoch 28 :1.86989210434814
+07/08/2022 09:47:17 AM Loss per epoch 29 :1.869896702929092
+07/08/2022 09:49:16 AM Download image data to /Users/allenhum/Documents/work/data/
+07/08/2022 09:49:18 AM Image data downloaded.
+07/08/2022 09:49:24 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/08/2022 09:49:24 AM image size and channel:(32, 32) , RGB.
+07/08/2022 09:49:24 AM training parameters parse
+07/08/2022 09:49:24 AM epochs:30
+07/08/2022 09:49:24 AM learning rate:0.0001
+07/08/2022 09:49:24 AM learning rate gama:0.1
+07/08/2022 09:49:50 AM Loss per epoch 0 :2.047467554047672
+07/08/2022 09:50:15 AM Loss per epoch 1 :1.8267242598381124
+07/08/2022 09:50:41 AM Loss per epoch 2 :1.8158677226698983
+07/08/2022 09:51:07 AM Loss per epoch 3 :1.814665418189726
+07/08/2022 09:51:33 AM Loss per epoch 4 :1.8147143661848772
+07/08/2022 09:51:59 AM Loss per epoch 5 :1.8145782073169374
+07/08/2022 09:52:26 AM Loss per epoch 6 :1.8146339748968194
+07/08/2022 09:52:52 AM Loss per epoch 7 :1.8145646998114677
+07/08/2022 09:53:18 AM Loss per epoch 8 :1.8145017273136292
+07/08/2022 09:53:44 AM Loss per epoch 9 :1.8146443364462619
+07/08/2022 09:54:10 AM Loss per epoch 10 :1.8146015675083151
+07/08/2022 09:54:36 AM Loss per epoch 11 :1.8146207220772945
+07/08/2022 09:55:02 AM Loss per epoch 12 :1.8146233157054195
+07/08/2022 09:55:28 AM Loss per epoch 13 :1.8145926481625165
+07/08/2022 09:55:54 AM Loss per epoch 14 :1.814561247571445
+07/08/2022 09:56:21 AM Loss per epoch 15 :1.8146002836573099
+07/08/2022 09:56:47 AM Loss per epoch 16 :1.8145094837969555
+07/08/2022 09:57:13 AM Loss per epoch 17 :1.814594542039737
+07/08/2022 09:57:40 AM Loss per epoch 18 :1.8146467008062008
+07/08/2022 09:58:06 AM Loss per epoch 19 :1.8146280190075383
+07/08/2022 09:58:32 AM Loss per epoch 20 :1.8146651330024703
+07/08/2022 09:58:58 AM Loss per epoch 21 :1.8145688754409106
+07/08/2022 09:59:24 AM Loss per epoch 22 :1.814616335480452
+07/08/2022 09:59:50 AM Loss per epoch 23 :1.8145810439388381
+07/08/2022 10:00:16 AM Loss per epoch 24 :1.8146707950624577
+07/08/2022 10:00:42 AM Loss per epoch 25 :1.8146153678263683
+07/08/2022 10:01:08 AM Loss per epoch 26 :1.8145082139257174
+07/08/2022 10:01:34 AM Loss per epoch 27 :1.8146094027866941
+07/08/2022 10:02:00 AM Loss per epoch 28 :1.8147150293342087
+07/08/2022 10:02:26 AM Loss per epoch 29 :1.8146380552096661
+07/13/2022 06:29:36 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 06:29:38 AM Image data downloaded.
+07/13/2022 06:29:43 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/13/2022 06:29:43 AM image size and channel:(32, 32) , RGB.
+07/13/2022 06:29:43 AM training parameters parse
+07/13/2022 06:29:43 AM epochs:30
+07/13/2022 06:29:43 AM learning rate:0.0001
+07/13/2022 06:29:43 AM learning rate gama:0.1
+07/13/2022 06:30:09 AM Loss per epoch 0 :2.0354009155017225
+07/13/2022 06:30:34 AM Loss per epoch 1 :1.7983733430854294
+07/13/2022 06:31:00 AM Loss per epoch 2 :1.7853984972561345
+07/13/2022 06:31:25 AM Loss per epoch 3 :1.7840181975476523
+07/13/2022 06:31:51 AM Loss per epoch 4 :1.7840361691741293
+07/13/2022 06:32:16 AM Loss per epoch 5 :1.78396483855461
+07/13/2022 06:32:41 AM Loss per epoch 6 :1.7839446499911962
+07/13/2022 06:33:07 AM Loss per epoch 7 :1.7837958635806022
+07/13/2022 06:33:33 AM Loss per epoch 8 :1.783915678575349
+07/13/2022 06:33:58 AM Loss per epoch 9 :1.7839242621525517
+07/13/2022 06:34:24 AM Loss per epoch 10 :1.7838952388844764
+07/13/2022 06:34:49 AM Loss per epoch 11 :1.7839466226634695
+07/13/2022 06:35:15 AM Loss per epoch 12 :1.7840384582975017
+07/13/2022 06:35:41 AM Loss per epoch 13 :1.7839690332473723
+07/13/2022 06:36:06 AM Loss per epoch 14 :1.783944616693932
+07/13/2022 06:36:32 AM Loss per epoch 15 :1.7840453101627862
+07/13/2022 06:36:57 AM Loss per epoch 16 :1.7840564451746341
+07/13/2022 06:37:23 AM Loss per epoch 17 :1.7839137005653463
+07/13/2022 06:37:49 AM Loss per epoch 18 :1.784027740645256
+07/13/2022 06:38:14 AM Loss per epoch 19 :1.7839373276431931
+07/13/2022 06:38:40 AM Loss per epoch 20 :1.783914181469346
+07/13/2022 06:39:05 AM Loss per epoch 21 :1.7840074138092334
+07/13/2022 06:39:31 AM Loss per epoch 22 :1.7839360394711687
+07/13/2022 06:39:57 AM Loss per epoch 23 :1.78393821167285
+07/13/2022 06:40:22 AM Loss per epoch 24 :1.7839611412873908
+07/13/2022 06:40:48 AM Loss per epoch 25 :1.7838993397857081
+07/13/2022 06:41:14 AM Loss per epoch 26 :1.783861464528895
+07/13/2022 06:41:39 AM Loss per epoch 27 :1.7838963183766998
+07/13/2022 06:42:05 AM Loss per epoch 28 :1.7839096321988461
+07/13/2022 06:42:31 AM Loss per epoch 29 :1.7839828422074633
+07/13/2022 06:55:37 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 06:55:39 AM Image data downloaded.
+07/13/2022 07:00:06 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 07:00:08 AM Image data downloaded.
+07/13/2022 07:01:19 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 07:01:20 AM Image data downloaded.
+07/13/2022 07:17:45 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 07:17:47 AM Image data downloaded.
+07/13/2022 07:18:23 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 07:18:24 AM Image data downloaded.
+07/13/2022 07:19:26 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 07:19:27 AM Image data downloaded.
+07/13/2022 09:44:54 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 09:44:56 AM Image data downloaded.
+07/13/2022 09:46:37 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 09:46:39 AM Image data downloaded.
+07/13/2022 09:48:37 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 09:48:38 AM Image data downloaded.
+07/13/2022 09:50:45 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 09:50:47 AM Image data downloaded.
+07/13/2022 09:52:26 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 09:52:27 AM Image data downloaded.
+07/13/2022 09:58:43 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 09:58:45 AM Image data downloaded.
+07/13/2022 10:00:56 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:00:57 AM Image data downloaded.
+07/13/2022 10:15:06 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:15:08 AM Image data downloaded.
+07/13/2022 10:17:32 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:17:34 AM Image data downloaded.
+07/13/2022 10:19:42 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:19:44 AM Image data downloaded.
+07/13/2022 10:27:57 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:27:59 AM Image data downloaded.
+07/13/2022 10:30:15 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:30:17 AM Image data downloaded.
+07/13/2022 10:51:55 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:51:57 AM Image data downloaded.
+07/13/2022 10:53:19 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:53:21 AM Image data downloaded.
+07/13/2022 10:53:53 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:53:54 AM Image data downloaded.
+07/13/2022 10:54:32 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:54:34 AM Image data downloaded.
+07/13/2022 10:55:34 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:55:35 AM Image data downloaded.
+07/13/2022 10:57:49 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:57:51 AM Image data downloaded.
+07/13/2022 10:58:44 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 10:58:45 AM Image data downloaded.
+07/13/2022 11:03:27 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 11:03:29 AM Image data downloaded.
+07/13/2022 11:04:44 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 11:04:45 AM Image data downloaded.
+07/13/2022 11:09:27 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 11:09:29 AM Image data downloaded.
+07/13/2022 11:10:42 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 11:10:43 AM Image data downloaded.
+07/13/2022 11:14:25 AM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 11:14:26 AM Image data downloaded.
+07/13/2022 02:26:56 PM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 02:26:58 PM Image data downloaded.
+07/13/2022 02:27:05 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/13/2022 02:27:05 PM image size and channel:(32, 32) , RGB.
+07/13/2022 02:27:05 PM training parameters parse
+07/13/2022 02:27:05 PM epochs:40
+07/13/2022 02:27:05 PM learning rate:1e-05
+07/13/2022 02:27:05 PM learning rate gama:0.1
+07/13/2022 02:28:59 PM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 02:29:01 PM Image data downloaded.
+07/13/2022 02:29:07 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/13/2022 02:29:07 PM image size and channel:(32, 32) , RGB.
+07/13/2022 02:29:07 PM training parameters parse
+07/13/2022 02:29:07 PM epochs:40
+07/13/2022 02:29:07 PM learning rate:1e-05
+07/13/2022 02:29:07 PM learning rate gama:0.1
+07/13/2022 02:31:03 PM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 02:31:05 PM Image data downloaded.
+07/13/2022 02:31:10 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/13/2022 02:31:10 PM image size and channel:(32, 32) , RGB.
+07/13/2022 02:31:10 PM training parameters parse
+07/13/2022 02:31:10 PM epochs:40
+07/13/2022 02:31:10 PM learning rate:1e-05
+07/13/2022 02:31:10 PM learning rate gama:0.1
+07/13/2022 02:32:15 PM Download image data to /Users/allenhum/Documents/work/data/
+07/13/2022 02:32:17 PM Image data downloaded.
+07/13/2022 02:32:22 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/13/2022 02:32:22 PM image size and channel:(32, 32) , RGB.
+07/13/2022 02:32:22 PM training parameters parse
+07/13/2022 02:32:22 PM epochs:40
+07/13/2022 02:32:22 PM learning rate:1e-05
+07/13/2022 02:32:22 PM learning rate gama:0.1
+07/13/2022 03:48:25 PM Loss per epoch 0 :2.076242079612797
+07/13/2022 05:03:37 PM Loss per epoch 1 :1.9032258232519317
+07/13/2022 06:18:45 PM Loss per epoch 2 :1.8937752612872418
+07/13/2022 07:33:54 PM Loss per epoch 3 :1.8923117628992239
+07/13/2022 08:49:48 PM Loss per epoch 4 :1.8921767902780953
+07/13/2022 10:04:58 PM Loss per epoch 5 :1.8922855035582584
+07/13/2022 11:20:07 PM Loss per epoch 6 :1.8922321659161339
+07/14/2022 12:35:16 AM Loss per epoch 7 :1.8922023496139786
+07/14/2022 01:50:24 AM Loss per epoch 8 :1.892273194500124
+07/14/2022 03:05:33 AM Loss per epoch 9 :1.8921548913536803
+07/14/2022 04:20:41 AM Loss per epoch 10 :1.892188163200167
+07/14/2022 05:35:49 AM Loss per epoch 11 :1.8922199153188448
+07/14/2022 06:50:58 AM Loss per epoch 12 :1.8922705998552887
+07/14/2022 09:59:04 AM Loss per epoch 13 :1.8923256224406553
+07/14/2022 11:15:05 AM Loss per epoch 14 :1.892216425968894
+07/14/2022 02:12:09 PM Loss per epoch 15 :1.8922572479065038
+07/14/2022 03:28:22 PM Loss per epoch 16 :1.892153313927559
+07/14/2022 04:44:31 PM Loss per epoch 17 :1.8922497084908394
+07/14/2022 06:00:30 PM Loss per epoch 18 :1.892286252873793
+07/14/2022 07:15:39 PM Loss per epoch 19 :1.8922147224706882
+07/14/2022 08:30:47 PM Loss per epoch 20 :1.892151023279121
+07/14/2022 09:45:56 PM Loss per epoch 21 :1.8922203481832802
+07/14/2022 11:01:04 PM Loss per epoch 22 :1.8922689304168798
+07/15/2022 12:16:12 AM Loss per epoch 23 :1.8922104878720445
+07/15/2022 01:31:21 AM Loss per epoch 24 :1.8923347352156
+07/15/2022 02:46:29 AM Loss per epoch 25 :1.892261263658243
+07/15/2022 04:01:38 AM Loss per epoch 26 :1.8922942287123787
+07/15/2022 05:16:46 AM Loss per epoch 27 :1.8921877557534907
+07/15/2022 06:31:54 AM Loss per epoch 28 :1.8922775170442139
+07/15/2022 08:35:40 AM Loss per epoch 29 :1.892212914505493
+07/15/2022 10:39:31 AM Loss per epoch 30 :1.892181281341927
+07/15/2022 11:55:30 AM Loss per epoch 31 :1.892201436353899
+07/15/2022 01:10:43 PM Loss per epoch 32 :1.8922690984282666
+07/15/2022 02:25:52 PM Loss per epoch 33 :1.8921871142092543
+07/15/2022 03:41:33 PM Loss per epoch 34 :1.8921563462662037
+07/15/2022 05:44:01 PM Loss per epoch 35 :1.8921382866942806
+07/16/2022 01:47:07 AM Loss per epoch 36 :1.8921459666701521
+07/16/2022 03:53:48 PM Loss per epoch 37 :1.8921510425966177
+07/17/2022 12:57:00 PM Loss per epoch 38 :1.8921922877399144
+07/17/2022 02:12:08 PM Loss per epoch 39 :1.8922111866062383
+07/18/2022 09:45:31 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 09:45:33 AM Image data downloaded.
+07/18/2022 09:45:38 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 09:45:38 AM image size and channel:(32, 32) , RGB.
+07/18/2022 09:45:38 AM training parameters parse
+07/18/2022 09:45:38 AM epochs:40
+07/18/2022 09:45:38 AM learning rate:1e-05
+07/18/2022 09:45:38 AM learning rate gama:0.1
+07/18/2022 11:02:12 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:02:43 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:02:45 AM Image data downloaded.
+07/18/2022 11:02:50 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:02:50 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:03:11 AM training parameters parse
+07/18/2022 11:03:11 AM epochs:40
+07/18/2022 11:03:11 AM learning rate:1e-05
+07/18/2022 11:03:11 AM learning rate gama:0.1
+07/18/2022 11:16:16 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:16:17 AM Image data downloaded.
+07/18/2022 11:16:22 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:16:22 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:16:23 AM training parameters parse
+07/18/2022 11:16:23 AM epochs:40
+07/18/2022 11:16:23 AM learning rate:1e-05
+07/18/2022 11:16:23 AM learning rate gama:0.1
+07/18/2022 11:18:07 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:18:08 AM Image data downloaded.
+07/18/2022 11:18:14 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:18:14 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:18:14 AM training parameters parse
+07/18/2022 11:18:14 AM epochs:40
+07/18/2022 11:18:14 AM learning rate:1e-05
+07/18/2022 11:18:14 AM learning rate gama:0.1
+07/18/2022 11:22:27 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:22:29 AM Image data downloaded.
+07/18/2022 11:22:34 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:22:34 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:22:34 AM training parameters parse
+07/18/2022 11:22:34 AM epochs:40
+07/18/2022 11:22:34 AM learning rate:1e-05
+07/18/2022 11:22:34 AM learning rate gama:0.1
+07/18/2022 11:25:52 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:25:53 AM Image data downloaded.
+07/18/2022 11:25:58 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:25:58 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:25:59 AM training parameters parse
+07/18/2022 11:25:59 AM epochs:40
+07/18/2022 11:25:59 AM learning rate:1e-05
+07/18/2022 11:25:59 AM learning rate gama:0.1
+07/18/2022 11:27:02 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:27:03 AM Image data downloaded.
+07/18/2022 11:27:08 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:27:08 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:27:08 AM training parameters parse
+07/18/2022 11:27:08 AM epochs:40
+07/18/2022 11:27:08 AM learning rate:1e-05
+07/18/2022 11:27:08 AM learning rate gama:0.1
+07/18/2022 11:33:57 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:33:59 AM Image data downloaded.
+07/18/2022 11:34:04 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:34:04 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:34:04 AM training parameters parse
+07/18/2022 11:34:04 AM epochs:40
+07/18/2022 11:34:04 AM learning rate:1e-05
+07/18/2022 11:34:04 AM learning rate gama:0.1
+07/18/2022 11:35:10 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:35:11 AM Image data downloaded.
+07/18/2022 11:35:16 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:35:16 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:35:16 AM training parameters parse
+07/18/2022 11:35:16 AM epochs:40
+07/18/2022 11:35:16 AM learning rate:1e-05
+07/18/2022 11:35:16 AM learning rate gama:0.1
+07/18/2022 11:39:33 AM Download image data to /Users/allenhum/Documents/work/data/
+07/18/2022 11:39:34 AM Image data downloaded.
+07/18/2022 11:39:39 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/18/2022 11:39:39 AM image size and channel:(32, 32) , RGB.
+07/18/2022 11:39:39 AM training parameters parse
+07/18/2022 11:39:39 AM epochs:40
+07/18/2022 11:39:39 AM learning rate:1e-05
+07/18/2022 11:39:39 AM learning rate gama:0.1
+07/18/2022 11:45:57 AM Loss per epoch 0 :2.055583460752898
+07/18/2022 11:51:41 AM Loss per epoch 1 :1.9030757306227044
+07/18/2022 11:57:24 AM Loss per epoch 2 :1.8935963708454613
+07/18/2022 12:03:07 PM Loss per epoch 3 :1.8924941886970992
+07/18/2022 12:08:48 PM Loss per epoch 4 :1.8923200783190697
+07/18/2022 12:14:31 PM Loss per epoch 5 :1.89245343945428
+07/18/2022 12:20:16 PM Loss per epoch 6 :1.8924030878904785
+07/18/2022 12:26:07 PM Loss per epoch 7 :1.892408717161557
+07/18/2022 01:51:07 PM Loss per epoch 8 :1.8923036465004308
+07/18/2022 01:56:49 PM Loss per epoch 9 :1.8923279509615543
+07/18/2022 02:02:30 PM Loss per epoch 10 :1.892368564219363
+07/18/2022 02:08:09 PM Loss per epoch 11 :1.8923773851984345
+07/18/2022 02:13:51 PM Loss per epoch 12 :1.8924089876065122
+07/18/2022 02:19:34 PM Loss per epoch 13 :1.8923733341160105
+07/18/2022 02:25:17 PM Loss per epoch 14 :1.8923397897911478
+07/18/2022 02:30:59 PM Loss per epoch 15 :1.8923054964049284
+07/18/2022 02:36:40 PM Loss per epoch 16 :1.8923505514161165
+07/18/2022 02:42:23 PM Loss per epoch 17 :1.89245528173345
+07/18/2022 02:48:07 PM Loss per epoch 18 :1.892422817154988
+07/18/2022 02:53:53 PM Loss per epoch 19 :1.8923347530080312
+07/18/2022 02:59:35 PM Loss per epoch 20 :1.8923346795507077
+07/18/2022 03:05:18 PM Loss per epoch 21 :1.8923541370993737
+07/18/2022 03:11:02 PM Loss per epoch 22 :1.8924253863820644
+07/18/2022 03:16:44 PM Loss per epoch 23 :1.8923202933533105
+07/18/2022 03:22:26 PM Loss per epoch 24 :1.892400572803229
+07/18/2022 03:28:20 PM Loss per epoch 25 :1.8924849081649455
+07/18/2022 03:34:07 PM Loss per epoch 26 :1.8923540633878728
+07/18/2022 03:39:54 PM Loss per epoch 27 :1.8923119138807123
+07/18/2022 03:45:42 PM Loss per epoch 28 :1.892399148646194
+07/18/2022 03:51:28 PM Loss per epoch 29 :1.8923261114783378
+07/18/2022 03:57:09 PM Loss per epoch 30 :1.8923168510262138
+07/18/2022 04:02:44 PM Loss per epoch 31 :1.8924602999616025
+07/18/2022 04:08:10 PM Loss per epoch 32 :1.8923724422068484
+07/18/2022 04:13:35 PM Loss per epoch 33 :1.8922864854462873
+07/18/2022 04:19:01 PM Loss per epoch 34 :1.8922779135612537
+07/18/2022 04:24:27 PM Loss per epoch 35 :1.8922804390697845
+07/18/2022 04:29:53 PM Loss per epoch 36 :1.8923805908861953
+07/18/2022 04:35:19 PM Loss per epoch 37 :1.892443615236262
+07/18/2022 04:40:46 PM Loss per epoch 38 :1.8923084522361187
+07/18/2022 04:46:11 PM Loss per epoch 39 :1.8922503968037523
+07/19/2022 08:33:34 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 08:33:36 AM Image data downloaded.
+07/19/2022 08:35:40 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 08:35:42 AM Image data downloaded.
+07/19/2022 09:32:17 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 09:32:19 AM Image data downloaded.
+07/19/2022 09:32:37 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 09:32:38 AM Image data downloaded.
+07/19/2022 10:41:59 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:42:01 AM Image data downloaded.
+07/19/2022 10:44:37 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:44:38 AM Image data downloaded.
+07/19/2022 10:45:30 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:45:31 AM Image data downloaded.
+07/19/2022 10:46:19 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:46:20 AM Image data downloaded.
+07/19/2022 10:46:41 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:46:43 AM Image data downloaded.
+07/19/2022 10:48:39 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:48:40 AM Image data downloaded.
+07/19/2022 10:51:42 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 10:51:44 AM Image data downloaded.
+07/19/2022 11:10:59 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 11:11:01 AM Image data downloaded.
+07/19/2022 11:12:16 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 11:12:17 AM Image data downloaded.
+07/19/2022 11:14:08 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 11:14:09 AM Image data downloaded.
+07/19/2022 11:39:09 AM Download image data to /Users/allenhum/Documents/work/data/
+07/19/2022 11:39:10 AM Image data downloaded.
+07/21/2022 06:06:30 PM Download image data to /Users/allenhum/Documents/work/data/
+07/21/2022 06:06:32 PM Image data downloaded.
+07/21/2022 06:06:38 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/21/2022 06:06:38 PM image size and channel:(32, 32) , RGB.
+07/21/2022 06:06:38 PM training parameters parse
+07/21/2022 06:06:38 PM epochs:40
+07/21/2022 06:06:38 PM learning rate:1e-05
+07/21/2022 06:06:38 PM learning rate gama:0.1
+07/21/2022 06:12:31 PM Loss per epoch 0 :2.1181284006216377
+07/22/2022 07:00:43 AM Loss per epoch 1 :1.9640213395995119
+07/22/2022 09:48:08 AM Loss per epoch 2 :1.950753283653178
+07/22/2022 09:53:59 AM Loss per epoch 3 :1.944561284488198
+07/25/2022 02:12:48 PM Download image data to /Users/allenhum/Documents/work/data/
+07/25/2022 02:12:50 PM Image data downloaded.
+07/25/2022 02:12:56 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/25/2022 02:12:56 PM image size and channel:(32, 32) , RGB.
+07/25/2022 02:12:56 PM training parameters parse
+07/25/2022 02:12:56 PM epochs:40
+07/25/2022 02:12:56 PM learning rate:1e-05
+07/25/2022 02:12:56 PM learning rate gama:0.1
+07/25/2022 02:18:45 PM Loss per epoch 0 :2.1135230824383084
+07/25/2022 02:24:36 PM Loss per epoch 1 :1.9736897510760374
+07/25/2022 02:30:28 PM Loss per epoch 2 :1.9476237617321868
+07/25/2022 02:36:18 PM Loss per epoch 3 :1.9463418935661885
+07/25/2022 02:42:09 PM Loss per epoch 4 :1.9511588478901747
+07/25/2022 02:48:01 PM Loss per epoch 5 :1.9507375902204371
+07/25/2022 02:53:49 PM Loss per epoch 6 :1.9508482098325228
+07/25/2022 02:59:44 PM Loss per epoch 7 :1.9530765534972332
+07/25/2022 03:05:34 PM Loss per epoch 8 :1.951080835196001
+07/25/2022 03:11:18 PM Loss per epoch 9 :1.953466130726373
+07/25/2022 03:17:03 PM Loss per epoch 10 :1.9460720210187217
+07/25/2022 03:22:47 PM Loss per epoch 11 :1.9559943902212928
+07/25/2022 03:28:23 PM Loss per epoch 12 :1.9500405724877234
+07/25/2022 03:34:00 PM Loss per epoch 13 :1.953881666350212
+07/25/2022 03:39:38 PM Loss per epoch 14 :1.948175620931044
+07/25/2022 03:45:16 PM Loss per epoch 15 :1.9571890543772976
+07/25/2022 03:50:53 PM Loss per epoch 16 :1.951674688091156
+07/25/2022 03:56:30 PM Loss per epoch 17 :1.9479360105132244
+07/25/2022 04:02:05 PM Loss per epoch 18 :1.9536399012689651
+07/25/2022 04:07:42 PM Loss per epoch 19 :1.9475792384605164
+07/25/2022 04:13:17 PM Loss per epoch 20 :1.949086122675491
+07/25/2022 04:18:52 PM Loss per epoch 21 :1.9489825165856367
+07/25/2022 04:24:26 PM Loss per epoch 22 :1.9497547391126913
+07/25/2022 04:30:00 PM Loss per epoch 23 :1.9547352668827276
+07/25/2022 04:35:31 PM Loss per epoch 24 :1.9524925387998633
+07/25/2022 04:41:03 PM Loss per epoch 25 :1.9529256805428055
+07/25/2022 04:46:36 PM Loss per epoch 26 :1.9488887916495805
+07/25/2022 04:52:10 PM Loss per epoch 27 :1.9534621309878222
+07/25/2022 04:57:43 PM Loss per epoch 28 :1.9415240905432305
+07/25/2022 05:03:18 PM Loss per epoch 29 :1.9542416451073914
+07/25/2022 05:08:52 PM Loss per epoch 30 :1.9480842778931802
+07/25/2022 05:14:26 PM Loss per epoch 31 :1.9537671479080785
+07/25/2022 05:19:59 PM Loss per epoch 32 :1.9496310082579982
+07/25/2022 05:25:38 PM Loss per epoch 33 :1.9473032333703437
+07/25/2022 05:31:14 PM Loss per epoch 34 :1.9497205730694442
+07/25/2022 05:36:46 PM Loss per epoch 35 :1.9500948322861433
+07/25/2022 05:42:25 PM Loss per epoch 36 :1.943104814873067
+07/25/2022 05:48:15 PM Loss per epoch 37 :1.953204779736777
+07/25/2022 05:54:05 PM Loss per epoch 38 :1.954017474453078
+07/25/2022 05:59:57 PM Loss per epoch 39 :1.9504520006017136
+07/26/2022 12:51:32 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 12:51:34 PM Image data downloaded.
+07/26/2022 12:51:39 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 12:51:39 PM image size and channel:(32, 32) , RGB.
+07/26/2022 12:51:39 PM training parameters parse
+07/26/2022 12:51:39 PM epochs:40
+07/26/2022 12:51:39 PM learning rate:1e-05
+07/26/2022 12:51:39 PM learning rate gama:0.1
+07/26/2022 12:52:15 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 12:52:17 PM Image data downloaded.
+07/26/2022 12:52:22 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 12:52:22 PM image size and channel:(32, 32) , RGB.
+07/26/2022 12:52:22 PM training parameters parse
+07/26/2022 12:52:22 PM epochs:40
+07/26/2022 12:52:22 PM learning rate:1e-05
+07/26/2022 12:52:22 PM learning rate gama:0.1
+07/26/2022 12:52:38 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 12:52:39 PM Image data downloaded.
+07/26/2022 12:52:48 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 12:52:48 PM image size and channel:(32, 32) , RGB.
+07/26/2022 12:55:54 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 12:55:55 PM Image data downloaded.
+07/26/2022 12:56:02 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 12:56:02 PM image size and channel:(32, 32) , RGB.
+07/26/2022 12:56:02 PM training parameters parse
+07/26/2022 12:56:02 PM epochs:40
+07/26/2022 12:56:02 PM learning rate:1e-05
+07/26/2022 12:56:02 PM learning rate gama:0.1
+07/26/2022 12:57:49 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 12:57:51 PM Image data downloaded.
+07/26/2022 12:57:55 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 12:57:55 PM image size and channel:(32, 32) , RGB.
+07/26/2022 12:57:55 PM training parameters parse
+07/26/2022 12:57:55 PM epochs:40
+07/26/2022 12:57:55 PM learning rate:1e-05
+07/26/2022 12:57:55 PM learning rate gama:0.1
+07/26/2022 01:00:06 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 01:00:07 PM Image data downloaded.
+07/26/2022 01:00:12 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 01:00:12 PM image size and channel:(32, 32) , RGB.
+07/26/2022 01:00:48 PM training parameters parse
+07/26/2022 01:00:49 PM epochs:40
+07/26/2022 01:00:49 PM learning rate:1e-05
+07/26/2022 01:00:49 PM learning rate gama:0.1
+07/26/2022 01:00:59 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 01:01:01 PM Image data downloaded.
+07/26/2022 01:01:06 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 01:01:06 PM image size and channel:(32, 32) , RGB.
+07/26/2022 01:01:06 PM training parameters parse
+07/26/2022 01:01:06 PM epochs:40
+07/26/2022 01:01:06 PM learning rate:1e-05
+07/26/2022 01:01:06 PM learning rate gama:0.1
+07/26/2022 01:03:55 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 01:03:57 PM Image data downloaded.
+07/26/2022 01:04:02 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 01:04:02 PM image size and channel:(32, 32) , RGB.
+07/26/2022 01:04:02 PM training parameters parse
+07/26/2022 01:04:02 PM epochs:40
+07/26/2022 01:04:02 PM learning rate:1e-05
+07/26/2022 01:04:02 PM learning rate gama:0.1
+07/26/2022 01:04:26 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 01:04:28 PM Image data downloaded.
+07/26/2022 01:04:33 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 01:04:33 PM image size and channel:(32, 32) , RGB.
+07/26/2022 01:04:33 PM training parameters parse
+07/26/2022 01:04:33 PM epochs:40
+07/26/2022 01:04:33 PM learning rate:1e-05
+07/26/2022 01:04:33 PM learning rate gama:0.1
+07/26/2022 01:05:01 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 01:05:03 PM Image data downloaded.
+07/26/2022 01:05:08 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 01:05:08 PM image size and channel:(32, 32) , RGB.
+07/26/2022 01:05:08 PM training parameters parse
+07/26/2022 01:05:08 PM epochs:40
+07/26/2022 01:05:08 PM learning rate:1e-05
+07/26/2022 01:05:08 PM learning rate gama:0.1
+07/26/2022 02:12:05 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 02:12:07 PM Image data downloaded.
+07/26/2022 02:12:12 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 02:12:12 PM image size and channel:(32, 32) , RGB.
+07/26/2022 02:12:12 PM training parameters parse
+07/26/2022 02:12:12 PM epochs:40
+07/26/2022 02:12:12 PM learning rate:1e-05
+07/26/2022 02:12:12 PM learning rate gama:0.1
+07/26/2022 02:13:32 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 02:13:34 PM Image data downloaded.
+07/26/2022 02:13:39 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 02:13:39 PM image size and channel:(32, 32) , RGB.
+07/26/2022 02:13:39 PM training parameters parse
+07/26/2022 02:13:39 PM epochs:40
+07/26/2022 02:13:39 PM learning rate:1e-05
+07/26/2022 02:13:39 PM learning rate gama:0.1
+07/26/2022 02:27:01 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 02:27:03 PM Image data downloaded.
+07/26/2022 02:27:08 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 02:27:08 PM image size and channel:(32, 32) , RGB.
+07/26/2022 02:27:08 PM training parameters parse
+07/26/2022 02:27:08 PM epochs:40
+07/26/2022 02:27:08 PM learning rate:1e-05
+07/26/2022 02:27:08 PM learning rate gama:0.1
+07/26/2022 02:27:28 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 02:27:30 PM Image data downloaded.
+07/26/2022 02:27:35 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 02:27:35 PM image size and channel:(32, 32) , RGB.
+07/26/2022 02:27:35 PM training parameters parse
+07/26/2022 02:27:35 PM epochs:40
+07/26/2022 02:27:35 PM learning rate:1e-05
+07/26/2022 02:27:35 PM learning rate gama:0.1
+07/26/2022 02:27:55 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 02:27:56 PM Image data downloaded.
+07/26/2022 02:28:01 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 02:28:01 PM image size and channel:(32, 32) , RGB.
+07/26/2022 02:28:01 PM training parameters parse
+07/26/2022 02:28:01 PM epochs:40
+07/26/2022 02:28:01 PM learning rate:1e-05
+07/26/2022 02:28:01 PM learning rate gama:0.1
+07/26/2022 02:28:27 PM Loss per epoch 0 :2.040144531965764
+07/26/2022 02:28:50 PM Loss per epoch 1 :1.914794149429305
+07/26/2022 02:29:13 PM Loss per epoch 2 :1.9025126418579361
+07/26/2022 02:29:37 PM Loss per epoch 3 :1.8959725988444998
+07/26/2022 02:30:00 PM Loss per epoch 4 :1.8993785419443776
+07/26/2022 02:30:24 PM Loss per epoch 5 :1.8987097249610592
+07/26/2022 02:30:49 PM Loss per epoch 6 :1.9058831843740143
+07/26/2022 02:31:13 PM Loss per epoch 7 :1.902980345144455
+07/26/2022 02:31:36 PM Loss per epoch 8 :1.9017235465141247
+07/26/2022 02:31:59 PM Loss per epoch 9 :1.9017964301587167
+07/26/2022 02:32:22 PM Loss per epoch 10 :1.904994209183813
+07/26/2022 02:32:46 PM Loss per epoch 11 :1.9056945253791078
+07/26/2022 02:33:09 PM Loss per epoch 12 :1.895038238212244
+07/26/2022 02:33:32 PM Loss per epoch 13 :1.8970792013953235
+07/26/2022 02:33:55 PM Loss per epoch 14 :1.8991417058749493
+07/26/2022 02:34:17 PM Loss per epoch 15 :1.9035199794179596
+07/26/2022 02:34:40 PM Loss per epoch 16 :1.8989250637066644
+07/26/2022 02:35:02 PM Loss per epoch 17 :1.894180717498763
+07/26/2022 02:35:25 PM Loss per epoch 18 :1.9022408589117055
+07/26/2022 02:35:49 PM Loss per epoch 19 :1.8998061398199118
+07/26/2022 02:36:12 PM Loss per epoch 20 :1.902213754684432
+07/26/2022 02:36:35 PM Loss per epoch 21 :1.902268404137097
+07/26/2022 02:36:58 PM Loss per epoch 22 :1.9030210920996757
+07/26/2022 02:37:21 PM Loss per epoch 23 :1.9015459612742671
+07/26/2022 02:37:45 PM Loss per epoch 24 :1.8984845238707975
+07/26/2022 02:38:07 PM Loss per epoch 25 :1.906668751224526
+07/26/2022 02:38:30 PM Loss per epoch 26 :1.9073522401008525
+07/26/2022 02:38:53 PM Loss per epoch 27 :1.9068411197235335
+07/26/2022 02:39:17 PM Loss per epoch 28 :1.9073441521699495
+07/26/2022 02:39:40 PM Loss per epoch 29 :1.9016319772582064
+07/26/2022 02:40:04 PM Loss per epoch 30 :1.902226047221023
+07/26/2022 02:40:27 PM Loss per epoch 31 :1.9002044404239289
+07/26/2022 02:40:50 PM Loss per epoch 32 :1.8982515787519116
+07/26/2022 02:41:13 PM Loss per epoch 33 :1.9016678656088009
+07/26/2022 02:41:36 PM Loss per epoch 34 :1.8996614349930525
+07/26/2022 02:41:59 PM Loss per epoch 35 :1.9006304639234726
+07/26/2022 02:42:24 PM Loss per epoch 36 :1.9009489054873046
+07/26/2022 02:42:51 PM Loss per epoch 37 :1.9040195057387037
+07/26/2022 02:43:15 PM Loss per epoch 38 :1.8991284459384519
+07/26/2022 02:43:39 PM Loss per epoch 39 :1.9016752090535438
+07/26/2022 05:01:47 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 05:01:49 PM Image data downloaded.
+07/26/2022 05:01:54 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 05:01:54 PM image size and channel:(32, 32) , RGB.
+07/26/2022 05:01:54 PM training parameters parse
+07/26/2022 05:01:54 PM epochs:40
+07/26/2022 05:01:54 PM learning rate:1e-05
+07/26/2022 05:01:54 PM learning rate gama:0.1
+07/26/2022 05:47:17 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 05:47:19 PM Image data downloaded.
+07/26/2022 05:47:24 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 05:47:24 PM image size and channel:(32, 32) , RGB.
+07/26/2022 05:47:24 PM training parameters parse
+07/26/2022 05:47:24 PM epochs:40
+07/26/2022 05:47:24 PM learning rate:1e-05
+07/26/2022 05:47:24 PM learning rate gama:0.1
+07/26/2022 05:48:36 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 05:48:38 PM Image data downloaded.
+07/26/2022 05:48:43 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 05:48:43 PM image size and channel:(32, 32) , RGB.
+07/26/2022 05:48:43 PM training parameters parse
+07/26/2022 05:48:43 PM epochs:40
+07/26/2022 05:48:43 PM learning rate:1e-05
+07/26/2022 05:48:43 PM learning rate gama:0.1
+07/26/2022 06:03:23 PM Download image data to /Users/allenhum/Documents/work/data/
+07/26/2022 06:03:25 PM Image data downloaded.
+07/26/2022 06:03:30 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/26/2022 06:03:30 PM image size and channel:(32, 32) , RGB.
+07/26/2022 06:03:30 PM training parameters parse
+07/26/2022 06:03:30 PM epochs:40
+07/26/2022 06:03:30 PM learning rate:1e-05
+07/26/2022 06:03:30 PM learning rate gama:0.1
+07/26/2022 06:09:04 PM Loss per epoch 0 :1.9786385854424189
+07/27/2022 09:33:52 AM Download image data to /Users/allenhum/Documents/work/data/
+07/27/2022 09:33:54 AM Image data downloaded.
+07/27/2022 09:33:59 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/27/2022 09:33:59 AM image size and channel:(32, 32) , RGB.
+07/27/2022 09:34:00 AM training parameters parse
+07/27/2022 09:34:00 AM epochs:40
+07/27/2022 09:34:00 AM learning rate:1e-05
+07/27/2022 09:34:00 AM learning rate gama:0.1
+07/27/2022 09:40:01 AM Loss per epoch 0 :1.9687462018242776
+07/27/2022 09:45:54 AM Loss per epoch 1 :1.737832895474139
+07/27/2022 09:51:50 AM Loss per epoch 2 :1.7009814301533486
+07/27/2022 09:57:48 AM Loss per epoch 3 :1.6953582367154836
+07/27/2022 10:03:47 AM Loss per epoch 4 :1.697269153239122
+07/27/2022 10:09:39 AM Loss per epoch 5 :1.7028117919527392
+07/27/2022 10:16:05 AM Loss per epoch 6 :1.7004683307493165
+07/27/2022 10:22:01 AM Loss per epoch 7 :1.6953591255745146
+07/27/2022 10:27:50 AM Loss per epoch 8 :1.696540922498398
+07/27/2022 10:33:34 AM Loss per epoch 9 :1.7065342354621968
+07/27/2022 10:39:11 AM Loss per epoch 10 :1.6992815860044728
+07/27/2022 10:44:53 AM Loss per epoch 11 :1.697254890317856
+07/27/2022 10:50:38 AM Loss per epoch 12 :1.7008301095921856
+07/27/2022 10:56:19 AM Loss per epoch 13 :1.694840644214199
+07/27/2022 11:02:08 AM Loss per epoch 14 :1.7060366419078445
+07/27/2022 11:07:54 AM Loss per epoch 15 :1.696002758388072
+07/27/2022 11:13:50 AM Loss per epoch 16 :1.7026276405432077
+07/27/2022 11:19:35 AM Loss per epoch 17 :1.6952751724958928
+07/27/2022 11:25:16 AM Loss per epoch 18 :1.6993192289429686
+07/27/2022 11:31:08 AM Loss per epoch 19 :1.6969046946019253
+07/27/2022 11:36:59 AM Loss per epoch 20 :1.6916433727817495
+07/27/2022 11:42:56 AM Loss per epoch 21 :1.6997977739203967
+07/27/2022 11:48:42 AM Loss per epoch 22 :1.694045416836037
+07/27/2022 11:54:23 AM Loss per epoch 23 :1.6992705521553055
+07/27/2022 12:00:00 PM Loss per epoch 24 :1.6983123443274102
+07/27/2022 12:05:35 PM Loss per epoch 25 :1.6894692917114127
+07/27/2022 12:11:06 PM Loss per epoch 26 :1.6968274579119327
+07/27/2022 12:16:37 PM Loss per epoch 27 :1.7068129566940926
+07/27/2022 12:22:07 PM Loss per epoch 28 :1.7032898478924847
+07/27/2022 12:27:37 PM Loss per epoch 29 :1.7002374040546702
+07/27/2022 12:33:08 PM Loss per epoch 30 :1.6959626710236961
+07/27/2022 12:38:39 PM Loss per epoch 31 :1.700879114523117
+07/27/2022 12:44:08 PM Loss per epoch 32 :1.6972908277247252
+07/27/2022 12:49:41 PM Loss per epoch 33 :1.6980336032696624
+07/27/2022 12:55:11 PM Loss per epoch 34 :1.7093818317344194
+07/27/2022 01:00:42 PM Loss per epoch 35 :1.6993200349401054
+07/27/2022 01:06:13 PM Loss per epoch 36 :1.7028808070144166
+07/27/2022 01:11:42 PM Loss per epoch 37 :1.7008885498494228
+07/27/2022 01:17:12 PM Loss per epoch 38 :1.7002306439474957
+07/27/2022 01:22:41 PM Loss per epoch 39 :1.7002995858060272
+07/27/2022 02:24:00 PM Download image data to /Users/allenhum/Documents/work/data/
+07/27/2022 02:24:02 PM Image data downloaded.
+07/27/2022 02:24:07 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/27/2022 02:24:07 PM image size and channel:(32, 32) , RGB.
+07/27/2022 02:24:08 PM training parameters parse
+07/27/2022 02:24:08 PM epochs:40
+07/27/2022 02:24:08 PM learning rate:1e-05
+07/27/2022 02:24:08 PM learning rate gama:0.1
+07/27/2022 02:27:43 PM Download image data to /Users/allenhum/Documents/work/data/
+07/27/2022 02:27:44 PM Image data downloaded.
+07/27/2022 02:27:49 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/27/2022 02:27:49 PM image size and channel:(32, 32) , RGB.
+07/27/2022 02:27:50 PM training parameters parse
+07/27/2022 02:27:50 PM epochs:40
+07/27/2022 02:27:50 PM learning rate:1e-05
+07/27/2022 02:27:50 PM learning rate gama:0.1
+07/27/2022 02:38:42 PM Download image data to /Users/allenhum/Documents/work/data/
+07/27/2022 02:38:44 PM Image data downloaded.
+07/27/2022 02:38:49 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/27/2022 02:38:49 PM image size and channel:(32, 32) , RGB.
+07/27/2022 02:38:50 PM training parameters parse
+07/27/2022 02:38:50 PM epochs:40
+07/27/2022 02:38:50 PM learning rate:1e-05
+07/27/2022 02:38:50 PM learning rate gama:0.1
+07/27/2022 02:40:50 PM Download image data to /Users/allenhum/Documents/work/data/
+07/27/2022 02:40:52 PM Image data downloaded.
+07/27/2022 02:40:57 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/27/2022 02:40:57 PM image size and channel:(32, 32) , RGB.
+07/27/2022 02:40:57 PM training parameters parse
+07/27/2022 02:40:57 PM epochs:40
+07/27/2022 02:40:57 PM learning rate:1e-05
+07/27/2022 02:40:57 PM learning rate gama:0.1
+07/27/2022 02:46:43 PM Loss per epoch 0 :1.9953620403306063
+07/27/2022 02:52:21 PM Loss per epoch 1 :1.773267626254035
+07/27/2022 02:58:03 PM Loss per epoch 2 :1.7568167869978621
+07/27/2022 03:03:55 PM Loss per epoch 3 :1.747665821107974
+07/27/2022 03:09:44 PM Loss per epoch 4 :1.7479492903772447
+07/27/2022 03:15:32 PM Loss per epoch 5 :1.7478143218229574
+07/27/2022 03:21:23 PM Loss per epoch 6 :1.751052170419998
+07/27/2022 03:27:16 PM Loss per epoch 7 :1.7538374555644705
+07/27/2022 03:33:02 PM Loss per epoch 8 :1.7495575955173355
+07/27/2022 03:38:44 PM Loss per epoch 9 :1.7433091485932437
+07/27/2022 03:44:30 PM Loss per epoch 10 :1.7467209263396923
+07/27/2022 03:49:57 PM Loss per epoch 11 :1.7487379078671876
+07/28/2022 09:27:25 AM Download image data to /Users/allenhum/Documents/work/data/
+07/28/2022 09:27:26 AM Image data downloaded.
+07/28/2022 09:27:32 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/28/2022 09:27:32 AM image size and channel:(32, 32) , RGB.
+07/28/2022 09:27:32 AM training parameters parse
+07/28/2022 09:27:32 AM epochs:40
+07/28/2022 09:27:32 AM learning rate:1e-05
+07/28/2022 09:27:32 AM learning rate gama:0.1
+07/28/2022 11:28:53 AM Loss per epoch 0 :2.0001897260324277
+07/28/2022 11:38:50 AM Loss per epoch 1 :1.7781935808246832
+07/28/2022 11:44:50 AM Loss per epoch 2 :1.7649873591689413
+07/28/2022 11:50:48 AM Loss per epoch 3 :1.7533819563607418
+07/28/2022 11:56:48 AM Loss per epoch 4 :1.752634573846992
+07/28/2022 12:02:49 PM Loss per epoch 5 :1.7568720983289707
+07/28/2022 12:08:53 PM Loss per epoch 6 :1.75167218022255
+07/28/2022 12:14:54 PM Loss per epoch 7 :1.7521304921554859
+07/28/2022 12:20:55 PM Loss per epoch 8 :1.7457685630712936
+07/28/2022 12:27:13 PM Loss per epoch 9 :1.7490955514948505
+07/28/2022 12:55:50 PM Loss per epoch 10 :1.7459079039884782
+07/28/2022 02:47:51 PM Loss per epoch 11 :1.7552422750224945
+07/28/2022 02:56:14 PM Loss per epoch 12 :1.7563678188872998
+07/28/2022 03:02:06 PM Loss per epoch 13 :1.7487289285354777
+07/28/2022 03:07:57 PM Loss per epoch 14 :1.7589087722652248
+07/28/2022 03:13:43 PM Loss per epoch 15 :1.756908139186119
+07/28/2022 03:19:32 PM Loss per epoch 16 :1.7544823918007075
+07/28/2022 03:25:21 PM Loss per epoch 17 :1.7505108931425537
+07/28/2022 03:50:01 PM Loss per epoch 18 :1.7487506253887086
+07/28/2022 04:08:59 PM Loss per epoch 19 :1.746943129913639
+07/28/2022 04:25:39 PM Loss per epoch 20 :1.7516692907317106
+07/28/2022 04:42:19 PM Loss per epoch 21 :1.7598051160637505
+07/28/2022 04:55:30 PM Loss per epoch 22 :1.7470757175864442
+07/28/2022 05:10:12 PM Loss per epoch 23 :1.7521010182305439
+07/28/2022 05:15:47 PM Loss per epoch 24 :1.7482202670721612
+07/28/2022 05:21:24 PM Loss per epoch 25 :1.7486163845448606
+07/28/2022 05:27:02 PM Loss per epoch 26 :1.7512363083581173
+07/28/2022 05:32:42 PM Loss per epoch 27 :1.757441914666182
+07/28/2022 05:38:14 PM Loss per epoch 28 :1.7528345475573022
+07/28/2022 05:43:44 PM Loss per epoch 29 :1.7556396539785715
+07/28/2022 05:49:14 PM Loss per epoch 30 :1.753808688761583
+07/28/2022 05:54:44 PM Loss per epoch 31 :1.7555593966421035
+07/28/2022 06:00:17 PM Loss per epoch 32 :1.7547927263703174
+07/28/2022 06:05:47 PM Loss per epoch 33 :1.7566826516377139
+07/28/2022 06:11:23 PM Loss per epoch 34 :1.749953554383219
+07/28/2022 06:17:14 PM Loss per epoch 35 :1.7556483054211907
+07/28/2022 06:22:51 PM Loss per epoch 36 :1.750685820193179
+07/28/2022 06:28:29 PM Loss per epoch 37 :1.7536854896464074
+07/28/2022 06:34:08 PM Loss per epoch 38 :1.7480155427827002
+07/28/2022 06:39:43 PM Loss per epoch 39 :1.746720746381959
+07/28/2022 06:39:44 PM Model saved at loction:/Users/allenhum/Documents/work/model/
+07/29/2022 10:30:52 AM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 10:30:54 AM Image data downloaded.
+07/29/2022 10:32:14 AM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 10:32:16 AM Image data downloaded.
+07/29/2022 10:36:26 AM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 10:36:28 AM Image data downloaded.
+07/29/2022 10:37:15 AM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 10:37:16 AM Image data downloaded.
+07/29/2022 10:40:28 AM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 10:40:30 AM Image data downloaded.
+07/29/2022 10:40:35 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/29/2022 10:40:35 AM image size and channel:(32, 32) , RGB.
+07/29/2022 10:40:35 AM training parameters parse
+07/29/2022 10:40:35 AM epochs:40
+07/29/2022 10:40:35 AM learning rate:1e-05
+07/29/2022 10:40:35 AM learning rate gama:0.1
+07/29/2022 10:46:25 AM Loss per epoch 0 :1.9755085345778638
+07/29/2022 10:52:02 AM Loss per epoch 1 :1.736753099508631
+07/29/2022 10:54:00 AM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 10:54:01 AM Image data downloaded.
+07/29/2022 10:54:07 AM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/29/2022 10:54:07 AM image size and channel:(32, 32) , RGB.
+07/29/2022 10:54:07 AM training parameters parse
+07/29/2022 10:54:07 AM epochs:40
+07/29/2022 10:54:07 AM learning rate:1e-05
+07/29/2022 10:54:07 AM learning rate gama:0.1
+07/29/2022 11:05:05 AM Loss per epoch 0 :1.9812738026128902
+07/29/2022 11:10:53 AM Loss per epoch 1 :1.7464653052755001
+07/29/2022 11:16:40 AM Loss per epoch 2 :1.7049143670210198
+07/29/2022 11:22:25 AM Loss per epoch 3 :1.7096730485908005
+07/29/2022 11:28:09 AM Loss per epoch 4 :1.7151624505707959
+07/29/2022 11:34:14 AM Loss per epoch 5 :1.702360851424081
+07/29/2022 11:40:11 AM Loss per epoch 6 :1.7030921399212087
+07/29/2022 12:00:32 PM Loss per epoch 7 :1.7038700351837093
+07/29/2022 12:06:22 PM Loss per epoch 8 :1.7073864118376774
+07/29/2022 12:12:11 PM Loss per epoch 9 :1.7064087863669974
+07/29/2022 12:17:59 PM Loss per epoch 10 :1.6990876716337224
+07/29/2022 12:23:45 PM Loss per epoch 11 :1.707703383746686
+07/29/2022 12:29:33 PM Loss per epoch 12 :1.7131256825888335
+07/29/2022 12:35:23 PM Loss per epoch 13 :1.708710750028777
+07/29/2022 12:41:09 PM Loss per epoch 14 :1.703023608813662
+07/29/2022 12:46:52 PM Loss per epoch 15 :1.7118967977414
+07/29/2022 12:52:47 PM Loss per epoch 16 :1.7048089064514713
+07/29/2022 12:58:23 PM Loss per epoch 17 :1.7029281956300553
+07/29/2022 01:03:58 PM Loss per epoch 18 :1.6963893952908546
+07/29/2022 01:09:30 PM Loss per epoch 19 :1.70438204645348
+07/29/2022 01:15:03 PM Loss per epoch 20 :1.7015598839534116
+07/29/2022 01:20:33 PM Loss per epoch 21 :1.704007570423297
+07/29/2022 01:26:05 PM Loss per epoch 22 :1.702181540572567
+07/29/2022 01:31:35 PM Loss per epoch 23 :1.7004025007870152
+07/29/2022 01:37:02 PM Loss per epoch 24 :1.7017628211202398
+07/29/2022 01:42:31 PM Loss per epoch 25 :1.703649362521385
+07/29/2022 01:47:59 PM Loss per epoch 26 :1.7014063230709735
+07/29/2022 01:53:27 PM Loss per epoch 27 :1.7012784933484693
+07/29/2022 01:58:56 PM Loss per epoch 28 :1.7037448890681968
+07/29/2022 02:04:26 PM Loss per epoch 29 :1.7151941378741884
+07/29/2022 02:09:55 PM Loss per epoch 30 :1.7087518060639468
+07/29/2022 02:15:25 PM Loss per epoch 31 :1.7022631971566662
+07/29/2022 02:20:56 PM Loss per epoch 32 :1.7054807110381787
+07/29/2022 02:26:25 PM Loss per epoch 33 :1.699923395348002
+07/29/2022 02:31:54 PM Loss per epoch 34 :1.7071272859187014
+07/29/2022 02:37:24 PM Loss per epoch 35 :1.703382387090085
+07/29/2022 02:42:53 PM Loss per epoch 36 :1.702448916841926
+07/29/2022 02:48:21 PM Loss per epoch 37 :1.704041966243085
+07/29/2022 02:53:49 PM Loss per epoch 38 :1.7046603071155833
+07/29/2022 02:59:17 PM Loss per epoch 39 :1.7097884594504513
+07/29/2022 06:28:01 PM Download image data to /Users/allenhum/Documents/work/data/
+07/29/2022 06:28:02 PM Image data downloaded.
+07/29/2022 06:28:07 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+07/29/2022 06:28:07 PM image size and channel:(32, 32) , RGB.
+07/29/2022 06:28:08 PM training parameters parse
+07/29/2022 06:28:08 PM epochs:40
+07/29/2022 06:28:08 PM learning rate:1e-05
+07/29/2022 06:28:08 PM learning rate gama:0.1
+07/29/2022 06:33:46 PM Loss per epoch 0 :1.976353826807506
+07/29/2022 06:39:17 PM Loss per epoch 1 :1.744287626829737
+07/29/2022 06:44:49 PM Loss per epoch 2 :1.715704858938514
+07/29/2022 06:50:21 PM Loss per epoch 3 :1.7080890161396345
+07/29/2022 06:55:50 PM Loss per epoch 4 :1.7098767762499323
+07/29/2022 07:01:16 PM Loss per epoch 5 :1.706756100471594
+07/29/2022 07:06:52 PM Loss per epoch 6 :1.7107625063548464
+07/29/2022 07:12:25 PM Loss per epoch 7 :1.7148684059887298
+07/29/2022 07:18:04 PM Loss per epoch 8 :1.7129021331445495
+07/29/2022 07:23:36 PM Loss per epoch 9 :1.7037776919570304
+07/29/2022 07:29:11 PM Loss per epoch 10 :1.7099139682773843
+07/29/2022 07:34:55 PM Loss per epoch 11 :1.70278914371279
+07/29/2022 07:40:33 PM Loss per epoch 12 :1.7005691220765429
+07/29/2022 07:46:05 PM Loss per epoch 13 :1.7146955441310208
+07/29/2022 07:51:45 PM Loss per epoch 14 :1.7052887014742852
+07/29/2022 07:57:24 PM Loss per epoch 15 :1.709016549561832
+07/29/2022 08:02:59 PM Loss per epoch 16 :1.7113618210180481
+07/29/2022 08:08:36 PM Loss per epoch 17 :1.7129445078530545
+07/29/2022 08:24:52 PM Loss per epoch 18 :1.711397956937615
+07/29/2022 08:30:41 PM Loss per epoch 19 :1.7166522761651957
+07/29/2022 08:36:26 PM Loss per epoch 20 :1.7117584725178636
+07/29/2022 08:42:15 PM Loss per epoch 21 :1.7130728370345223
+07/29/2022 09:03:25 PM Loss per epoch 22 :1.7100813442201757
+07/29/2022 09:08:37 PM Loss per epoch 23 :1.703349188700922
+07/29/2022 09:14:15 PM Loss per epoch 24 :1.7110589046213927
+07/29/2022 09:20:07 PM Loss per epoch 25 :1.7101217371060142
+07/29/2022 09:25:49 PM Loss per epoch 26 :1.7025772587322732
+07/29/2022 09:31:17 PM Loss per epoch 27 :1.7087674595908062
+07/29/2022 09:36:35 PM Loss per epoch 28 :1.7110774712776071
+07/30/2022 01:53:47 AM Loss per epoch 29 :1.7071864335521707
+07/30/2022 10:48:51 AM Loss per epoch 30 :1.7095298914512846
+07/30/2022 03:15:48 PM Loss per epoch 31 :1.7117044857061747
+07/30/2022 03:21:43 PM Loss per epoch 32 :1.7075660892132758
+07/30/2022 03:27:26 PM Loss per epoch 33 :1.7102626173226818
+07/30/2022 03:33:07 PM Loss per epoch 34 :1.70884995191082
+07/30/2022 03:38:54 PM Loss per epoch 35 :1.710663319904921
+07/30/2022 03:44:38 PM Loss per epoch 36 :1.7086084974345876
+08/01/2022 09:19:24 AM Loss per epoch 37 :1.7075164501092581
+08/01/2022 09:25:10 AM Loss per epoch 38 :1.7107939537145944
+08/01/2022 09:37:34 AM Loss per epoch 39 :1.7071451070720454
+08/01/2022 01:02:50 PM Download image data to /Users/allenhum/Documents/work/data/
+08/01/2022 01:02:52 PM Image data downloaded.
+08/01/2022 01:02:57 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+08/01/2022 01:02:57 PM image size and channel:(32, 32) , RGB.
+08/01/2022 01:02:58 PM training parameters parse
+08/01/2022 01:02:58 PM epochs:40
+08/01/2022 01:02:58 PM learning rate:1e-05
+08/01/2022 01:02:58 PM learning rate gama:0.1
+08/01/2022 03:15:48 PM Download image data to /Users/allenhum/Documents/work/data/
+08/01/2022 03:15:50 PM Image data downloaded.
+08/01/2022 03:15:56 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+08/01/2022 03:15:56 PM image size and channel:(32, 32) , RGB.
+08/01/2022 03:15:56 PM training parameters parse
+08/01/2022 03:15:56 PM epochs:40
+08/01/2022 03:15:56 PM learning rate:1e-05
+08/01/2022 03:15:56 PM learning rate gama:0.1
+08/01/2022 03:21:29 PM Loss per epoch 0 :1.975677518702265
+08/01/2022 03:26:53 PM Loss per epoch 1 :1.74927117829638
+08/01/2022 03:32:22 PM Loss per epoch 2 :1.7171334955992221
+08/01/2022 03:37:44 PM Loss per epoch 3 :1.706318614071112
+08/01/2022 03:43:04 PM Loss per epoch 4 :1.7017947676847738
+08/01/2022 03:48:24 PM Loss per epoch 5 :1.7086080503362073
+08/01/2022 03:53:45 PM Loss per epoch 6 :1.7084308453460237
+08/01/2022 03:59:05 PM Loss per epoch 7 :1.705600433512283
+08/01/2022 04:04:28 PM Loss per epoch 8 :1.7042269409338295
+08/01/2022 04:09:49 PM Loss per epoch 9 :1.7019982465040455
+08/01/2022 04:15:11 PM Loss per epoch 10 :1.7017278506049216
+08/01/2022 04:20:32 PM Loss per epoch 11 :1.7114355386193119
+08/01/2022 04:26:26 PM Loss per epoch 12 :1.708497570521796
+08/01/2022 04:32:21 PM Loss per epoch 13 :1.7033680766376096
+08/01/2022 04:38:16 PM Loss per epoch 14 :1.7000344798508993
+08/01/2022 04:44:35 PM Loss per epoch 15 :1.7091764519209547
+08/01/2022 04:51:18 PM Loss per epoch 16 :1.7098600775448245
+08/01/2022 04:57:19 PM Loss per epoch 17 :1.697836427037904
+08/01/2022 05:03:49 PM Loss per epoch 18 :1.7090788240880093
+08/01/2022 05:09:41 PM Loss per epoch 19 :1.7035920070941006
+08/01/2022 05:15:38 PM Loss per epoch 20 :1.703140311658001
+08/01/2022 05:22:05 PM Loss per epoch 21 :1.7110015870665691
+08/01/2022 05:28:07 PM Loss per epoch 22 :1.7065758120530703
+08/01/2022 05:34:04 PM Loss per epoch 23 :1.706761184277565
+08/01/2022 05:40:15 PM Loss per epoch 24 :1.7038257635478526
+08/01/2022 05:46:15 PM Loss per epoch 25 :1.7126644290586523
+08/01/2022 06:11:25 PM Loss per epoch 26 :1.712285536184494
+08/01/2022 06:58:02 PM Loss per epoch 27 :1.709534549255615
+08/01/2022 07:03:32 PM Loss per epoch 28 :1.7026860340317684
+08/01/2022 07:08:59 PM Loss per epoch 29 :1.7150041543598622
+08/01/2022 07:14:24 PM Loss per epoch 30 :1.708947762243275
+08/01/2022 07:19:47 PM Loss per epoch 31 :1.7057327115967837
+08/01/2022 07:25:13 PM Loss per epoch 32 :1.7140232400853497
+08/01/2022 07:30:40 PM Loss per epoch 33 :1.7050794835792167
+08/01/2022 07:36:04 PM Loss per epoch 34 :1.7052187152000378
+08/01/2022 07:41:27 PM Loss per epoch 35 :1.7047309433219275
+08/01/2022 07:46:51 PM Loss per epoch 36 :1.7054381380711536
+08/01/2022 07:52:14 PM Loss per epoch 37 :1.7017409410049666
+08/01/2022 07:57:37 PM Loss per epoch 38 :1.7073733720189728
+08/01/2022 08:02:59 PM Loss per epoch 39 :1.703978603836824
+08/02/2022 04:42:49 PM Download image data to /Users/allenhum/Documents/work/data/
+08/02/2022 04:42:51 PM Image data downloaded.
+08/02/2022 04:42:56 PM Batches image data saved: /Users/allenhum/Documents/work/plots/.
+08/02/2022 04:42:56 PM image size and channel:(32, 32) , RGB.
+08/02/2022 04:42:57 PM training parameters parse
+08/02/2022 04:42:57 PM epochs:40
+08/02/2022 04:42:57 PM learning rate:1e-05
+08/02/2022 04:42:57 PM learning rate gama:0.1
+08/02/2022 04:49:16 PM Loss per epoch 0 :1.9738935115240783
+08/02/2022 04:55:08 PM Loss per epoch 1 :1.7328731502805437
+08/02/2022 05:00:58 PM Loss per epoch 2 :1.6939016755964202
+08/02/2022 05:07:39 PM Loss per epoch 3 :1.6926619833720518
+08/02/2022 05:26:23 PM Loss per epoch 4 :1.6940873360583015
+08/02/2022 05:33:12 PM Loss per epoch 5 :1.6959497074582683
+08/02/2022 05:39:06 PM Loss per epoch 6 :1.6951273189170528
+08/02/2022 05:45:34 PM Loss per epoch 7 :1.6925834765566437
+08/02/2022 05:52:04 PM Loss per epoch 8 :1.697645742247608
+08/02/2022 05:58:11 PM Loss per epoch 9 :1.697020611529157
+08/02/2022 06:05:04 PM Loss per epoch 10 :1.6976306468947355
+08/02/2022 06:12:00 PM Loss per epoch 11 :1.6990935228018365
+08/02/2022 06:18:35 PM Loss per epoch 12 :1.6963964680364645
+08/02/2022 06:24:15 PM Loss per epoch 13 :1.69758313983234
+08/02/2022 06:29:44 PM Loss per epoch 14 :1.688803464873259
+08/02/2022 06:35:16 PM Loss per epoch 15 :1.693417169900337
+08/02/2022 06:40:53 PM Loss per epoch 16 :1.6926728174376335
+08/02/2022 06:46:26 PM Loss per epoch 17 :1.6898010280340718
+08/02/2022 06:51:59 PM Loss per epoch 18 :1.6962929310829147
+08/02/2022 06:57:31 PM Loss per epoch 19 :1.6939899964627427
+08/02/2022 07:03:05 PM Loss per epoch 20 :1.6970143267340752
+08/02/2022 07:08:36 PM Loss per epoch 21 :1.6940985086884326
+08/02/2022 07:14:06 PM Loss per epoch 22 :1.7006705709611938
+08/02/2022 07:19:40 PM Loss per epoch 23 :1.6979472792224843
+08/02/2022 07:25:09 PM Loss per epoch 24 :1.6837361143596137
+08/02/2022 07:30:50 PM Loss per epoch 25 :1.6883319702738129
+08/02/2022 07:36:33 PM Loss per epoch 26 :1.6964850008868968
+08/02/2022 07:42:02 PM Loss per epoch 27 :1.696548442342388
+08/02/2022 07:47:31 PM Loss per epoch 28 :1.6953338971778529
+08/02/2022 07:53:00 PM Loss per epoch 29 :1.690567276371059
+08/02/2022 07:58:38 PM Loss per epoch 30 :1.6988155247051833
+08/02/2022 08:04:09 PM Loss per epoch 31 :1.6925290993281774
+08/02/2022 08:09:41 PM Loss per epoch 32 :1.6981290296705038
+08/02/2022 08:15:11 PM Loss per epoch 33 :1.6925335738704657
+08/02/2022 08:20:42 PM Loss per epoch 34 :1.6987278512291817
+08/02/2022 08:26:12 PM Loss per epoch 35 :1.693718121758402
+08/02/2022 08:32:00 PM Loss per epoch 36 :1.6891865961587251
+08/02/2022 08:37:37 PM Loss per epoch 37 :1.6921331119944039
+08/02/2022 08:43:11 PM Loss per epoch 38 :1.6929693026329153
+08/02/2022 08:48:44 PM Loss per epoch 39 :1.6897790810700928
+08/02/2022 08:48:44 PM Model saved at loction:/Users/allenhum/Documents/work/model/mdl3CNNLayer_[convStride]29jul.sav
+08/03/2022 10:42:48 AM Download image data to /Users/allenhum/Documents/work/data/
+08/03/2022 10:42:50 AM Image data downloaded.
+08/03/2022 03:45:33 PM Download image data to /Users/allenhum/Documents/work/data/
+08/03/2022 03:45:34 PM Image data downloaded.
+08/03/2022 03:47:10 PM Download image data to /Users/allenhum/Documents/work/data/
+08/03/2022 03:47:12 PM Image data downloaded.
+08/03/2022 03:51:02 PM Download image data to /Users/allenhum/Documents/work/data/
+08/03/2022 03:51:04 PM Image data downloaded.
+08/03/2022 03:57:41 PM Download image data to /Users/allenhum/Documents/work/data/
+08/03/2022 03:57:43 PM Image data downloaded.
+08/03/2022 03:59:14 PM Download image data to /Users/allenhum/Documents/work/data/
+08/03/2022 03:59:16 PM Image data downloaded.
+08/04/2022 10:57:40 AM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 10:57:42 AM Image data downloaded.
+08/04/2022 04:24:53 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:24:55 PM Image data downloaded.
+08/04/2022 04:29:51 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:29:53 PM Image data downloaded.
+08/04/2022 04:30:41 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:30:43 PM Image data downloaded.
+08/04/2022 04:32:01 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:32:02 PM Image data downloaded.
+08/04/2022 04:32:42 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:32:44 PM Image data downloaded.
+08/04/2022 04:48:41 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:48:43 PM Image data downloaded.
+08/04/2022 04:49:20 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:49:21 PM Image data downloaded.
+08/04/2022 04:50:03 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:50:05 PM Image data downloaded.
+08/04/2022 04:50:40 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:50:41 PM Image data downloaded.
+08/04/2022 04:53:41 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:53:43 PM Image data downloaded.
+08/04/2022 04:54:41 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:54:43 PM Image data downloaded.
+08/04/2022 04:55:23 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:55:25 PM Image data downloaded.
+08/04/2022 04:57:24 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:57:26 PM Image data downloaded.
+08/04/2022 04:58:27 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 04:58:29 PM Image data downloaded.
+08/04/2022 05:00:05 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:00:06 PM Image data downloaded.
+08/04/2022 05:02:28 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:02:30 PM Image data downloaded.
+08/04/2022 05:03:07 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:03:08 PM Image data downloaded.
+08/04/2022 05:05:10 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:05:11 PM Image data downloaded.
+08/04/2022 05:05:55 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:05:57 PM Image data downloaded.
+08/04/2022 05:14:58 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:15:00 PM Image data downloaded.
+08/04/2022 05:15:23 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:15:24 PM Image data downloaded.
+08/04/2022 05:21:27 PM Download image data to /Users/allenhum/Documents/work/data/
+08/04/2022 05:21:29 PM Image data downloaded.
+08/05/2022 08:14:17 AM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 08:14:19 AM Image data downloaded.
+08/05/2022 08:15:08 AM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 08:15:09 AM Image data downloaded.
+08/05/2022 08:15:57 AM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 08:15:59 AM Image data downloaded.
+08/05/2022 08:17:34 AM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 08:17:36 AM Image data downloaded.
+08/05/2022 09:31:01 AM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 09:31:02 AM Image data downloaded.
+08/05/2022 02:52:09 PM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 02:52:11 PM Image data downloaded.
+08/05/2022 05:29:12 PM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 05:29:14 PM Image data downloaded.
+08/05/2022 05:29:38 PM Download image data to /Users/allenhum/Documents/work/data/
+08/05/2022 05:29:40 PM Image data downloaded.
